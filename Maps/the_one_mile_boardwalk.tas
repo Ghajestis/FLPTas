@@ -1,11 +1,15 @@
-RecordCount: 490
+RecordCount: 525
 
 console load FrogelineProject2021/1-Maps/TiltTheStars
    1
 
 #Start
  166
+
+#spinner cycle
    2
+
+#lvl_a-01
   10,L,D,X
    6,R,J
   16,R,D,X
@@ -86,7 +90,6 @@ EndStunPause
    9,R,U,Z
    2,R,K,G
    5,R
-
    2,R
    1,R,J
    3,R
@@ -131,19 +134,15 @@ EndStunPause
   18,L,J
    1,K
    8,R,K
-  14,R,X
-   1,L,J
-  14,L,D,X
+   6,R,Z
    1,R,J
-   6,R,D,X
-   1,R,J,G
-  12,R
-  21,R,D,K
-   1,K
-  15,R,D,X
-   2,R
-   3
-   1,L,J
+   7,R
+   1,R,J
+  14,R,D,X
+   9,R,J
+  18,R
+  14,R,X
+   1,R,J
   14,R,Z
    1,L,J
   14,L,D,X
@@ -214,4 +213,4 @@ EndStunPause
   14,R,U,X
  135
    1,L,J
-ChapterTime: 0:20.315(1195)
+ChapterTime: 0:20.009(1177)
