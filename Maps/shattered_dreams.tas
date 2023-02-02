@@ -1,11 +1,14 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 439
+RecordCount: 786
 
-console load FrogelineProject2021/1-Maps/glowwoomiifrogmap 56 168
+console load FrogelineProject2021/1-Maps/glowwoomiifrogmap
+   1
 
-  37
+#Start
+ 190
+
 #lvl_startroom
   15,R,U,X
    1,R,J,G
@@ -20,118 +23,125 @@ console load FrogelineProject2021/1-Maps/glowwoomiifrogmap 56 168
   10,J
   15,U,X
    2
-  21,U,X
-  43
+  24,U,X
+  40
+
 #lvl_room1
-  11,L
+   2,L
+   1,L,J,G
+   8,L,K,G
   14,L,X
-   3,L,J,G
-   5,L
-   5,L,J,G
-   9,R
-  14,J
-   1,K,G
-   1,L,J,G
-  11,R,J
-  33,R,X
-   1,R,J
-  31,U,C
-  43
-   1,L,J,G
-   3,R
-   1
-   2,R
-   1
-   3
-  12,R,D,X
-   4,R,J
-   8,R,U,X
-   2,R,J,G
-   7,R
-   6,R,J
-  24,R,X
-   1,R,J
-   4,R,X
-  10,R,J
-  40,R,G
-  26,L,J
-  10,L,D,X
-  30,L,J
-  42,U,X
-  43
-#lvl_room3
-  11,L,J
-  27,L,X
    1,L,J
-   5,L,X
-  25,L,J
-   9,L,G
+   9,L
    1,G
-   1,J,G
-   3,L,J
-   5,J
-   1,L,J
+#   5,R,D
+#   2,D
+#  14,R,Z
+#   1,L,J
+#  10,L,D
+#   1,L,J
+#   5,L
+#   5,L,J
+#   5,J
+#  12,L,K,G
+#   3,J,G
+#   5,K
+#  34,U,X
+  10,J,G
    1,R,J
-   1,L,J
-  14,L,K,G
-   9,L,J,G
-   7,L,G
-  18,L,U,G
-  15,L,G
-   1,J,G
+  10,L,K,G
+   1,J
    1,L,K,G
-  10,R,K
-  22,R,X
-   1,R,J
-   4,R
-  20,R,J
-  10,R,D,X
-  21,R,J
-  35,U,X
-  43
+   7,R,K
+  31,R,Z
+   4,R,J
+   7,R,K
+  28,U,X
+  40
+
+#lvl_r2
+   2,L
+   1,R,J,G
+  13,R,K,G
+  10,R,X
+  10,R,J
+   4,K,G
+  18,R,X
+   4,R,J
+   2,R,K
+   7,R
+   1,R,G
+   9,R,J,G
+   1
+   1,K
+   4,L,K
+  10,R,X
+  19,L,J
+   1,K,G
+   5,L,Z
+   1,L,J
+   6,L
+   1,L,D
+  20,L,J
+  38,U,X
+  40
+
+#lvl_room3
+  12,L,J
+   8,L,K,G
+  28,L,X
+   8,R,J
+  16,R,K
+  15,R,U,X
+   8,R
+   2
+  22,L,J
+  26,R,U,X
+   4,R,J
+   1,R,K
+   5,R
+  15,D,X
+  12
+  10,R,X
+  23,R,J
+  34,U,X
+  40
+
 #lvl_r4
    1,L,J,G
-   2,J,G
-   7,R,J
-  11,U,X
+   5,R,J
+   5,L,J
+  15,U,X
   18,R,J
-   1,J
-   2,R,J
-   9,R,K,G
-   2,R
-   1,R,K,G
+   4,R,K,G
    7,R
-  12,R,D,X
-   3,R,J
-  25,R,X
-   1,R,J
-   5,R
-   1,R,J
-   7,R
-   2,R,G
-   1,L,J
-  37,L,X
-  18,U,C
+  10,R,D,X
+   5,R,J
+  27,R,X
    4,R,J
-  28,R,X
-   1,R,J
-   4,R
+   1,R,K
+   7,R
+   1,R,G
+  34,L,X
+   4,R,J
+  18,U,C
+   2,R,J,G
+  26,R,X
+   8,R,J
   12,R,K
-  12,R,J,G
-   3,R,K,G
-   1,J,G
+  12,J,G
+  12,K,G
+   7,R,J,G
+   2,L,J
    3,R,J
-   6,J
-   1,R,J
-   1,L,J
-   1,R,J
-  13,R,K,G
-   4,R,J,G
+   8,R,K,G
    5,R
-  21,R,J
-  12,R,K
-  26,U,X
-  43
+   3,R,J
+  16,R,D
+  11,R,J
+  28,U,X
+  40
+
 #lvl_r5
    1,L,J,G
   10,L
@@ -141,41 +151,51 @@ console load FrogelineProject2021/1-Maps/glowwoomiifrogmap 56 168
    2,J,G
   10,R,J
   28,U,X
-   6
+   6,R
   31,U,X
-  12,L,J
-  29,U,X
-  43
+   8
+   4,L
+  32,U,X
+  40
+
 #lvl_r6
-  11,J
-  18,U,X
-  18,U,C
-  30,L,X
-   1,L,J
-   5,L
+   5,R,J,G
+   4,J
+   2
+   5,U,X
+  16,L,J
+   4,L
+  14,L,U,Z
+   1,J,G
+   3
+   2,R
    4,L,J
-   8,L,G
+   5,L,K,G
+  12,R,J
+  10,L,Z
    1,R,J
-  28,R,X
-   1,R,J
-   5,R
-   9,R,J
-   7,R
-  10,J
-   7,L,J
-  12,L,K,G
-  32,L,X
-   1,L,J
-   5,L
-   8,L,J
+   1,R
+   1,J
+  12
+  15,U,X
+   3,R
+   3,L
+  12,J,G
+  10,K,G
+  34,L,X
+   4,L,J
+   6,L,K
    7,L
    1,G
-  12,L,K,G
-   3,L,J,G
-  10,L,Z
-  23,L,J
-  37,U,X
-  43
+  12,J,G
+   3,K,G
+   5,L,Z
+   1,L,J
+   6,L
+  18,L,J
+  33,U,X
+  40
+
 #lvl_r7
    9,R,J,G
    7,R,K,G
@@ -229,17 +249,23 @@ console load FrogelineProject2021/1-Maps/glowwoomiifrogmap 56 168
    1,R,J,G
    7,R
   14
-  14,R,D,X
+   4,L,Z
+   1,R,J
+   2
+   4,R
   21,R,J
-  49,U,X
-  43
+  45,U,X
+  40
+
 #lvl_endroom
    9
-   7,J
+   4,J
+   1,R,J
+   2,R
   15,L,Z
    6,L
-   1,L,J
   15,L,U,X
- 300
-#OLD 0:40.460(2380)
-#0:40.358(2374)
+ 135
+
+ChapterTime: 0:37.757(2221)
+
