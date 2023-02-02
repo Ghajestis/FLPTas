@@ -1,25 +1,26 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 1071
+RecordCount: 1191
 
 console load FrogelineProject2021/1-Maps/powerAV
    1
 
 #Start
  190
+
 #Spinner cycle
-   2
+   0
 
 #lvl_intro
-   4,L,Z
+   4,Z
    2,L,J
    5,L,K,G
-   7,L
-   1,L,J
+   5,L
+   4,L,J
    2,L
   15,D,X
-   3,R,D
+   1,R,D
    6,R,Z
    1,R,J
    7,R
@@ -27,25 +28,23 @@ console load FrogelineProject2021/1-Maps/powerAV
   14,R,D,X
    4,R,J
   15,U,Z
-   8,L,J,G
-   7,L
-   4,L,X
-   7,L,J
-   3,L,K,G
-   5,L
-   4,L,K
-   1,L
-   9,U,X
-   8,L,J
+   3,L,J,G
+   3,R,J
+   1,L,J
    1,L,K,G
-   6,L,K
+   1,L,J,G
+  11,L
+   3,L,J
+  14,U,Z
+  12,L,J
+  10,L
    2,L
-   2,L,J,G
-   7,L
-   6,L,J
-  11,U,X
-  14,L,J
-  12,L
+   4,L,J
+   2,J
+  10,U,X
+   3,R,J
+  22,L,J
+   2,L
    7,R,Z
    1,L,J
    7,L
@@ -60,13 +59,17 @@ console load FrogelineProject2021/1-Maps/powerAV
   15,L,U,X
    9,L
   33,R
-  12,U,X
-  39,R,J
-  12,L
-  15,L,D,X
-   1,L,D
-   2,L
-   5,L,D
+  11,R
+   2
+  11,J,G
+  11,K
+  15,U,X
+   9,L
+   1,L,J,G
+   3,L,K,G
+   1,L
+  12,R
+   4,L
   19,L
   15,U,X
   18,R,J
@@ -75,7 +78,9 @@ console load FrogelineProject2021/1-Maps/powerAV
    7,R,K
    1,R,J,G
    4,R,K,G
-  41,R
+   5,R
+   2,R,J
+  35,R
    1,R,J
   11,L,X
   22,R,J
@@ -129,13 +134,11 @@ console load FrogelineProject2021/1-Maps/powerAV
    1,R
   23,R,J
   14,R,K,G
-
   22,L
   15,L,Z
    8,L,J,G
    6,L
    7,L,J
-
   41,D
    3,L,D
    1,L,D
@@ -146,7 +149,6 @@ console load FrogelineProject2021/1-Maps/powerAV
    2,L
    2,K,G
    7,L
-
   12,L,U,X
   12,R,J,G
   40
@@ -162,7 +164,6 @@ console load FrogelineProject2021/1-Maps/powerAV
   16,L
   27
    3,R
-
   12,J
    2,L,J
    1,J
@@ -196,17 +197,26 @@ console load FrogelineProject2021/1-Maps/powerAV
   32,G
   30,L,J
   28,U,G
-StunPause
-   5,U,G
-  30,R,J
-   3,R
-   1,J
-  10,R,J
-   8,L,J
-SkipInput,3,1
-  14,L,U,Z
-EndStunPause
+   4,U,G
+   1,G
    4,R
+   3,R,J
+stunpause
+  27,R,K
+SkipInput,3,1
+  13,L,U,Z
+   1,R,J,G
+endstunpause
+   1,S
+  10,J
+   2,L,J
+   1,S
+  10,J
+   2,L,J
+  stunpause
+   4,K
+endstunpause
+   5,K
   40
 
 #lvl_a-6
@@ -229,7 +239,6 @@ EndStunPause
    7,L
    9,L,J
   13,L
-
   25,D
    7
    3,G
@@ -280,7 +289,8 @@ EndStunPause
    1,L,J
    7,L
   12,L,J
-  27,L,U,X
- 122,L,D
+  14,L,U,X
+ 135,L,D
 
-ChapterTime: 0:49.776(2928)
+ChapterTime: 0:47.311(2783)
+
