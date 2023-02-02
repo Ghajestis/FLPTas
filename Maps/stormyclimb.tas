@@ -6,19 +6,20 @@ console, load, FrogelineProject2021/1-Maps/Stormy Climb
 
 #lvl_climb
    7,L,U
-   5,L,X
+  14,L,Z
    4,L,U,J
-  18,U,J
-   6,U,X
-  10
-   5,L
-   5,U,X
-  13
-   2,R
-  28,L,J
+   1,L
+  15,L,U,C
+   1,L
+  15,U,X
+   1,R
+  10,R,J
+   9,J
+  15,U,X
   10,L
    4,L,X
-   6,L,J
+   3,L,J
+   3,L,K,G
    7,L
    2,J
    1,K,G
@@ -54,8 +55,8 @@ console, load, FrogelineProject2021/1-Maps/Stormy Climb
    4,J,G
    1,R,J
   12,R,K
-   5,U,X
-  13,R
+  15,U,X
+   3,R
   27,L,J
   10,L
   12,J
@@ -177,13 +178,11 @@ console, load, FrogelineProject2021/1-Maps/Stormy Climb
    1,L
    2,L,J
    9,K,G
-   5,U,X
-  10
-   5,U,X
-  10
+  15,U,X
+  15,U,C
    8,U,X
 
 #End
  135
 
-ChapterTime: 0:19.737(1161)
+ChapterTime: 0:19.499(1147)
