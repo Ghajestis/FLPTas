@@ -1,150 +1,156 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 462
+RecordCount: 1071
 
 console load FrogelineProject2021/1-Maps/powerAV
- 191
+   1
+
 #Start
-   5,L,J,Z
-   1,L,J
-   6,L,K,G
-   1,L,J,G
+ 190
+#Spinner cycle
+   2
+
+#lvl_intro
+   4,L,Z
+   2,L,J
+   5,L,K,G
    7,L
-  14,D
-   8,R,D
-   5,R,D,J,X
+   1,L,J
+   2,L
+  15,D,X
+   3,R,D
+   6,R,Z
+   1,R,J
    7,R
-   3,R,J
+   1,R,J
   14,R,D,X
-   3,R,J
-  14,U,X
-   6,L,J
-   2,L,K
-  11,L
-   5,L,J,X
-   5,L,J
-   6,L,K,G
-  11,L
-   9,U,X
-   5,R,J
-   1,L,K,G
-   4,K
-   9,L,J,G
+   4,R,J
+  15,U,Z
+   8,L,J,G
+   7,L
+   4,L,X
+   7,L,J
    3,L,K,G
-  15,L
-  11,U,X
-  13,J
-  11,L,K,G
+   5,L
+   4,L,K
+   1,L
+   9,U,X
+   8,L,J
+   1,L,K,G
+   6,L,K
+   2,L
    2,L,J,G
-  11,L
-  12,R,D,X
+   7,L
+   6,L,J
+  11,U,X
+  14,L,J
+  12,L
+   7,R,Z
    1,L,J
    7,L
-   7,L,J
-  14,L,D,X
-   1,L
-   6,L,J
-  11,U,X
+  16,L,J
+  15,L,U,X
   31,R
-   8,J,G
-   1,L
-  14,R,J,G
-   4,R,K,G
+   5,J,G
+   2
+   1,K
+   2,J,G
   10,L,J
   15,L,U,X
-  13,L
-  31,R
-   2,L
+   9,L
+  33,R
   12,U,X
-  40,R,J
-  13,L
-  14,L,D,X
-   6,L
-   3,R
-  20,L
+  39,R,J
+  12,L
+  15,L,D,X
+   1,L,D
+   2,L
+   5,L,D
+  19,L
   15,U,X
-  10,R,J
-   2,R
-   8,K,G
-   1,L
-  14,R,J,G
+  18,R,J
    1,R,K,G
-   3,R,J,G
-  40,R
-   8
-  13,L,X
-  13,R,J
-  10,R,U,X
-   3,R,J,G
-   1,R,K,G
-  10,R
-   5,R,J,Z
-   7,R
-   3,R,J
-  40
-.
-#lvl_a-1
-   9,R,J
-  15,R,D,X
-   9,R,J
-  13,R,U,X
-   8,J,G
-   1,L
-  14,R,J,G
-   1,R,K,G
+   4,L,K
+   7,R,K
    1,R,J,G
-   9,R
-  12,L,D,X
+   4,R,K,G
+  41,R
+   1,R,J
+  11,L,X
+  22,R,J
+  11,K,G
+   5,R,Z
    1,R,J
    7,R
+   4,R,J
+  40
+
+#lvl_a-1
    8,R,J
   15,R,D,X
-   8,R,D
-  10,R,U,X
-   2,R,J,G
+   9,R,J
+  14,R,U,X
+  12,J,G
+  10,K,G
+   7,R
+   5,L,Z
+   1,R,J
+   7,R
+   6,R,J
+  15,R,D,X
+   2
+   6,R
+  11,R,U,X
+   1,R,J,G
   11,R
    1,R,J
-  11,R,D,X
+  12,R,D,X
   40
-.
+
 #lvl_a-2
-   3,R
+   2,R,D,X
    1,R,J
-   7,R,D,X
+   8,R,D,X
    1,R,J
-   7
-   7,R,J
-  15,R,U,X
-   2,L
-  15,R,U,X
-  10,R,C
-  28,L
-#time can totally be saved here i'm just too lazy to do it lol
-   6,L,J,G
-  30,L,U,G
-  11,R,G
+   7,R
+   3,R,J
+   5,R
+   2,R,J
+  13,R,U,Z
+   1,J
+  10,L,J
+   4,L
+   2,L,J
+   4,L
+   1,L,J
+   4,L
+  33,U,G
+   1,R
   23,R,J
   14,R,K,G
-  17,L
-  13,L,D,X
-  17,L,J,G
-   3,L,K,G
-  13,L
-   3,R
-  10,L,J
+
+  22,L
+  15,L,Z
+   8,L,J,G
+   6,L
+   7,L,J
+
   41,D
-   6,L,D
-  13,L,X
-   2,J,G
-   5,R,J
-  13,L,K
-   3,L,J,G
+   3,L,D
+   1,L,D
+   4,L
+   2
+  13,L,U,Z
+  10,L,J
+   2,L
+   2,K,G
    7,L
+
   12,L,U,X
   12,R,J,G
   40
-.
+
 #lvl_a-3
   10,L
    6,R,J
@@ -156,37 +162,42 @@ console load FrogelineProject2021/1-Maps/powerAV
   16,L
   27
    3,R
-  15,J
-   8,U,X
-#This stun pause is probably unnecessary, however it felt faster for me
-StunPause
-...
-   7,U,X
-  18,R
-SkipInput,3,1
-  16,U,X
-EndStunPause
+
+  12,J
+   2,L,J
+   1,J
+  15,U,X
+  12,R
+  15,R,D,X
+   1,D
+   5,R
+  13,U,X
+   6,R
+  15,R,U,X
+   9,R
+  12,U,G
+  21,G
+   5,L,J
+  10,L
+   4,L,J
+   4,L,D
+  15,D
    6,L
   14,U,X
-   9,L,J
+  18,L,J
   12,R,K
-   8,J,G
-   1,L
-  13,R,J,G
   40
-#lvl_a-3
+
+#lvl_a-4
    7,R
   12,R,K,G
   15,U,X
-  20,R
-   6,R,G
-  30,L,G
+  24,R
+  32,G
   30,L,J
-   3,L,G
-  25,L,U,G
+  28,U,G
 StunPause
-...
-   5,L,U,G
+   5,U,G
   30,R,J
    3,R
    1,J
@@ -194,79 +205,82 @@ StunPause
    8,L,J
 SkipInput,3,1
   14,L,U,Z
-...
 EndStunPause
    4,R
   40
+
 #lvl_a-6
-   1,S
-   1,D,J
- 103
-   5,L,J,Z
+   1
+  72,O
+   4,L,Z
+   2,L,J
+   2,L,K,G
+  11,L
    1,L,J
-   3,L,K,G
-  12,L
+  14,L,D,X
    1,L,J
   14,L,D,X
    1,L,J
-  14,L,D,X
   40
+
 #lvl_a-7
-   1,L,J
   14,L,D,X
    1,L,J
    7,L
    9,L,J
-  30,L,D
-  15,D
-   2,J,G
-   1,R
-   6,L
-  10,L,X
+  13,L
+
+  25,D
+   7
+   3,G
+   5,L,Z
    1,L,J,G
-  34,L
-   4,R
-  14,L,X
-   6,L,G
-repeat,10
-   1
-   1,G
-endrepeat
-  24,R
-   8,J,G
    1,L
-  14,R,K,G
-#might be possible to get some serious speed off of this block, but idk for sure
-  40,R,G
-   5,L,J,Z
-  11,L,J
-  11,L
-   8,L,D,J
-  40
-#lvl_a-8
-  11,L,J
-   1,R,K,G
-  16,L,K,G
-  15,U,X
-  35,R,G
-   8,L,G
-   5,L,J
-  32,L
-  12,R
-  11
-  11,R,Z
-  34,L,J
-  15,L,X
-  59,L,D
-   5,L,J,Z
+   1,L,J,G
+   1,L
+   1,L,J,G
+   1,L
+  30,L,J,G
+   6,R
+  15,L,U,X
+   9,L
+   6,L,Z
+   1,L,J
    7,L
-   3,L,J
+   1,L,J
+   8,L,D,X
   40
-#lvl_a-9
+
+#lvl_a-8
+   6,L,D,X
+   1,L,J
+   7,L
+   1,J
+  12,L,J
+  15,U,X
+   4
+   1,R,J,G
+   7
+  15,U,G
+  17,G
+  18,L,J
+  26,L,D
+  14,L
+  13,R,X
+  35,L,J
+  43,L,D
   14,L,D,X
    1,L,J
    7,L
+  40
+
+#lvl_a-9
+   1,L,J
+  13,L,D,X
+   1,L,J
+   7,L
   12,L,J
-  15,L,U,X
- 150
-#0:57.239(3367)
+  27,L,U,X
+ 122,L,D
+
+ChapterTime: 0:49.776(2928)
