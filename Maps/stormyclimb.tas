@@ -1,8 +1,10 @@
 console, load, FrogelineProject2021/1-Maps/Stormy Climb
+   1
+
+#Start
+ 190
 
 #lvl_climb
-
- 191
    7,L,U
    5,L,X
    4,L,U,J
@@ -179,6 +181,9 @@ console, load, FrogelineProject2021/1-Maps/Stormy Climb
   10
    5,U,X
   10
-   5,U,X
+   8,U,X
+
+#End
+ 135
 
 ChapterTime: 0:19.737(1161)
