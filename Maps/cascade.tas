@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 1451
+RecordCount: 1660
 
 console load FrogelineProject2021/1-Maps/ABuffZucchini2
    1
@@ -11,19 +11,20 @@ console load FrogelineProject2021/1-Maps/ABuffZucchini2
 
 #lvl_ABuffZucchini_Cascade_00
   10,L,D,X
+   1,R,J
+   1,J
   11,R,J
-   2,J
   49,R,K,G
   24,R,U,X
    6,R,Z
    1,R,J
    7,R
    1,R,J
-   6,R,D,X
-  40
+   5,R,D,X
+  43
 
 #lvl_ABuffZucchini_Cascade_01
-   8,R,D,X
+   5,R,D,X
    5,R,J
   20,D
    4,R,D
@@ -34,21 +35,18 @@ console load FrogelineProject2021/1-Maps/ABuffZucchini2
   15,R,C
   27,R,D
    2,R
-Repeat 10
-   1
-   1,D
-Endrepeat
-   5,J
-   8,R
-   8
-  16,L,D
-  34,L,C
-  15,D,X
+  11
+   4,R,J
+   3,R
+  12
+  18,L,D
+  36,L,X
+  15,D,C
    9,R,D
-  17,L,D
+  15,L,D
   15,L,X
-  16,D
-  24,R,D
+  17,D
+  23,R,D
   17,R,U,X
   23,R,C
    5,R,Z
@@ -57,7 +55,7 @@ Endrepeat
    1
   40
 
-#lvl_ABuffZucchini_Cascade_01
+#lvl_ABuffZucchini_Cascade_02
    1,R
    1,R,J
   14,R,D,X
@@ -112,14 +110,15 @@ Endrepeat
   19,R,J
   15,U,X
    1,L,J,G
-   8,L,G
+   7,L
+   1,G
   10,D
   25,G
    1
-   1,J
+   1,J,G
    1,L,K,G
    7,R,K
-   7,R
+   5,R
   19,R,X
    4,R,J
   17,R
@@ -153,9 +152,9 @@ Endrepeat
   17,R
   56,R,C
   15,R,U,X
-  10,R,V
+  10,R,Z
   23,L,J
-  32,L,U,G
+  32,U,G
   15,U,X
   22,R,J
   14,R,U,X
@@ -185,7 +184,7 @@ Endrepeat
   33,R,Z
    3,R,D
   16,L
-  28,L,U,G
+  28,U,G
    1
    1,J
    1,L,K,G
@@ -195,9 +194,10 @@ Endrepeat
    5,R,K
   39,U,X
   10,L,Z
-  19,R,J
+  11,R,J
+   8,J
   22,U,X
-  12,L,Z
+  11,L,Z
    4,L,J
    2,L,K
   17,D,X
@@ -210,10 +210,14 @@ Endrepeat
    2,R
    1
    1,R
-  21,D
-  11,L,D
-  14,L,Z
-  29,D,X
+  10,D
+   1,R,D
+   9,D
+  10,L,D
+   1,D
+   2,L,D
+  12,L,Z
+  29,D,C
   14,R,Z
    1,R,J
    7,R
@@ -247,7 +251,7 @@ Endrepeat
   15,R,Z
   19,U,C
   15,R,X
-   1,R,G
+   1,G
    9,R,D
   24,R
   25,R,J
@@ -284,7 +288,7 @@ Endrepeat
   15,R,C
   19,D,X
   17,R,C
-   1,R,G
+   1,G
   23,R
    6
   10,R,D,X
@@ -331,7 +335,7 @@ Endrepeat
   16,L,D
   22,L,Z
   30,L,D
-   1,L,G
+   1,G
    1
   13,L,D
   19,L,X
@@ -451,16 +455,18 @@ Endrepeat
    4
   18,L,U,Z
    5,J
-  15,U,X
-   1,R
+  14,U,X
+   1,R,X
 #do a tcb here
-  14,R,J,G
-   2,R,K,G
-   4,R
+   1
+   8,J,G
+   4,R,J
+   1,R,K,G
+   4,R,J,G
   20,R,X
    4,R,J
-   1,R,K
-   4,R
+   2,R,K
+   3,R
    5,R,J,G
   22,R,D,X
   51,R,C
@@ -479,15 +485,29 @@ Endrepeat
    1,R,J
   15
   13,D
-   8,R,D
-   2,D
+   6,R,D
+   2,R
+   1
+   1,D
   20,R,Z
-  24,D,X
-  15,L,C
-#some kind of multiboost has to be possible here
-  33,L,G
-  13,L,J,G
-   6,L,K,G
+  15,D,X
+   9,D
+  11,L,Z
+   1,J,G
+   5,L
+   3,L,J
+   2,L
+   3,R
+   2,G
+   5,R
+   1,L
+   1,R
+   1,J,G
+   1,K,G
+   1,R,J,G
+  10,L,J
+   6,K,G
+   1
  133,R,X
    4,R,J
    1,R,K
@@ -495,5 +515,5 @@ Endrepeat
 
 #end
  135
-ChapterTime: 1:24.796(4988)
 
+ChapterTime: 1:24.286(4958)
