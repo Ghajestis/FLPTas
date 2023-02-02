@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 786
+RecordCount: 793
 
 console load FrogelineProject2021/1-Maps/glowwoomiifrogmap
    1
@@ -14,18 +14,14 @@ console load FrogelineProject2021/1-Maps/glowwoomiifrogmap
    1,R,J,G
    1,R
    1,R,K,G
-   8,R
-  10,R,D,X
-   3,R,J
-   3,R
-  15,R,Z
-  12,R,D
-  10,J
-  15,U,X
-   2
-  24,U,X
+   7,R
+   3,L,J
+  34,L,X
+   1,L,J
+   5,L
+   6,L,J
+  38,U,X
   40
-
 #lvl_room1
    2,L
    1,L,J,G
@@ -58,7 +54,7 @@ console load FrogelineProject2021/1-Maps/glowwoomiifrogmap
    7,R,K
   28,U,X
   40
-
+#Old 0:05.202(306)
 #lvl_r2
    2,L
    1,R,J,G
@@ -267,5 +263,5 @@ console load FrogelineProject2021/1-Maps/glowwoomiifrogmap
   15,L,U,X
  135
 
-ChapterTime: 0:37.757(2221)
+ChapterTime: 0:37.621(2213)
 
