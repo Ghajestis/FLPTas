@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 1660
+RecordCount: 1669
 
 console load FrogelineProject2021/1-Maps/ABuffZucchini2
    1
@@ -10,17 +10,22 @@ console load FrogelineProject2021/1-Maps/ABuffZucchini2
  190
 
 #lvl_ABuffZucchini_Cascade_00
-  10,L,D,X
+   8,L,Z
    1,R,J
-   1,J
-  11,R,J
-  49,R,K,G
-  24,R,U,X
+   3
+   1,R,J
+   3,R
+   5,R,J
+   2,R,K,G
+   1,K
+  32,R,K
+  15,R,X
+   7,R
    6,R,Z
    1,R,J
    7,R
    1,R,J
-   5,R,D,X
+   6,R,D,X
   43
 
 #lvl_ABuffZucchini_Cascade_01
@@ -454,9 +459,9 @@ Endrepeat
    9,L
    4
   18,L,U,Z
-   5,J
-  14,U,X
-   1,R,X
+   4,J
+   1,R,J
+  15,U,X
 #do a tcb here
    1
    8,J,G
@@ -516,4 +521,5 @@ Endrepeat
 #end
  135
 
-ChapterTime: 1:24.286(4958)
+ChapterTime: 1:23.997(4941)
+
