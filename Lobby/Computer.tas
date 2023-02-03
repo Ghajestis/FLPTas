@@ -1,0 +1,203 @@
+# The Frogeline Project
+# https://gamebanana.com/mods/425041
+
+RecordCount: 180
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 540 -1240
+  37
+   1,N
+#Start
+ 155
+
+#lvl_FLPlobby3
+#ITS
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   3,R,J
+  20,R,D,X
+   6,R
+#0:03.689(217)
+   1,N
+#EndITS
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1312 1088
+   1
+#ITS101
+  36
+  15,L,U,X
+   9,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   2,L,J
+  14,L,D,X
+   1,L,J
+  15,L,D,X
+#0:01.802(106)
+   1,N
+#End101
+
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 912 1064
+   1
+#101BV
+  36
+   5,R,Z
+   3,R,J
+   3,R,K,G
+   1,R
+   2,R,J,G
+  11,R
+   1,R,K
+  14,R,X
+   6,R,J
+  15,U,X
+  18,R,J
+  12,L,K
+  12,R,J
+  12,R,K
+  12,R,J
+  12,L,K
+  12,R,J
+   1,L,K
+   8,L
+#0:02.567(151)
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  14,L,D,X
+   9,L,J
+  15,L,D,X
+#0:03.315(195)
+   1,N
+#EndBV
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 912 808
+   1
+#BVCU
+  36
+   4,Z
+   1,R,J
+  13,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,L,J
+   7,L
+  13
+   6,L,Z
+   1,R,J
+   7,R
+   1,R,J
+  15,R,D,X
+   1,R
+   1,R,J
+   5,R
+  15,R,U,X
+   5,R
+#0:02.040(120)
+   1,N
+#EndCU
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1272 816
+   1
+
+#CUTP
+  36
+   2,R,J
+   1,R,K,G
+   2,R,J,G
+   1,R
+  12,R,U,X
+   3,R,J,G
+   6,R,K,G
+   5,R
+  16,R,J
+   1,R,K
+   8,R
+   7
+#0:01.037(61)
+   1,N
+#TPEnd
+
+
+
+#alternate route looses 4f
+#   6,L,Z
+#   1,L,J
+#   7,L
+#   1,L,J
+#  14,L,Z
+#   1,L,J
+#  14,L,D,X
+#   1,L,J
+#  14,L,D,X
+#   1,L,J
+#   9,L
+#   1,N
+#0:03.621(213)
+
+#console load FrogelineProject2021/0-Lobbies/1-Maps 912 1064
+#   1
+
+#  36
+#   5,R,Z
+#   3,R,J
+#   3,R,K,G
+#   1,R
+#   2,R,J,G
+#  11,R
+#   1,R,K
+#  14,R,D,X
+#   1,R,J
+#  14,R,D,X
+#   1,R,J
+#  14,R,D,X
+#   1,R,J
+#  14,R,D,X
+#   3,R,J
+#  20,R,D,X
+#   7,R
+#0:01.649(97)
+#   1,N
+
+#console load FrogelineProject2021/0-Lobbies/1-Maps 1312 1088
+#   1
+
+#  36
+#  15,L,U,X
+#   9,L
+#   4,Z
+#   2,L,J
+#   8,L
+#   1,L,J
+#  10,L,D,X
+#   1,L,J
+#   7,L
+#   7,L,J
+#  15,U,X
+#  18,L,K
+#Repeat 3
+#  12,R,J
+#  12,L,K
+#Endrepeat
+#   1,R,J
+#   7,R
+#0:02.805(165)
