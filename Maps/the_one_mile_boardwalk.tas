@@ -1,4 +1,7 @@
-RecordCount: 525
+# The Frogeline Project
+# https://gamebanana.com/mods/425041
+
+RecordCount: 732
 
 console load FrogelineProject2021/1-Maps/TiltTheStars
    1
@@ -89,8 +92,7 @@ EndStunPause
    1,R,J
    9,R,U,Z
    2,R,K,G
-   5,R
-   2,R
+   7,R
    1,R,J
    3,R
   19,R,D,X
@@ -190,27 +192,48 @@ EndStunPause
   14,R,U,X
    1,R,K,G
    9,R
-   1,R,J
-  15,R,D,X
-   2,R,D
-   3,R,J
-   3,R
-   7,R,D,X
-StunPause
-   4,R,D
-EndStunPause
-   3,R,D
-StunPause
-   2,R,D
-   2,R,J
-EndStunPause
-   9,R,K
-   6,R
-   1,R,J
+# Old Spinner-stun strat
+#   1,R,J
+#  15,R,D,X
+#   2,R,D
+#   3,R,J
+#   3,R
+#   7,R,D,X
+#StunPause
+#   4,R,D
+#EndStunPause
+#   3,R,D
+#StunPause
+#   2,R,D
+#   2,R,J
+#EndStunPause
+#   9,R,K
+#   6,R
+#   1,R,J
+#   4,R
+#   2,R,D
+#  12,R,D,J
+#  14,R,U,X
+   5,R,J
    4,R
-   2,R,D
-  12,R,D,J
+   1
+  14,R,X
+   1,L,J,G
+   8,R,J
+  12,R
+  15,R,D,X
+  17,R
+   8,R
+   3,R,D
+   1,D
+   1,R,D
+  13,R,D,J
+   1,J
+   8,R,J
+   9,R
+   2,R,J,G
   14,R,U,X
  135
    1,L,J
-ChapterTime: 0:20.009(1177)
+
+ChapterTime: 0:19.958(1174)
