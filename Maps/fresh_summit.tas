@@ -116,6 +116,7 @@ endstunpause
   18,D
   40
 
+
 #lvl_4-b
    9,D
    5,L,D,X
@@ -125,17 +126,20 @@ endstunpause
   14,L
    9,L,J
    5,L,U,X
-  17,L
-  27,D
-  14,R,D
+  21,L,D
+  20,D
+  15,R,D
    5,R,X
-  10
+  10,R
    5,R,X
   16,R
    5,R,D,X
    9,R
    4,R,J
-   4,R,K,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R
    5,R,D,X
    9
    1,R,J
@@ -143,87 +147,87 @@ endstunpause
   40
 
 #lvl_6-b
-  12,R,D
+  15,R,D
    5,L,D,X
-   8
-   6,R,J
+   5
+   5,R,J
    5,R,D,X
-  16,R
+  17,R
    1,R,J
    4,R
    5,R,J
   12,R
    5,R,Z
-  20,R
-  15,R,J
-   5,R,X
-  19,R
-   5,R,U,X
-  28,D
-   9,R,D
-  12,L,D
-   6,R,D
-  24,R
+  20,R,D
+  12,R,J
+   2,R
+  13,R,J
+  13,R
+   5,R,Z
+  10,R
+  18,L,D
+  23,R
    5,R,U,Z
-  41,R
+  37,R
    5,R,X
-  15,R,D
-  10,D
-   2,R,D
-  11,D
+  20,R,D
+   4,L,D
+   3,D
+   1,R,D
+   9,D
    5,R,D,X
-   8,R
-   2,R,J
+   9,R
+   1,R,J
    5,R,D,X
   16,R
   25,R,J
    5,U,X
-  51,R,D
-   5,R
+  31,R
+   5,R,D,X
+  17,R
    5,R,Z
   10
    5,R,U,X
-  22,R
+  14,R
+   6
    5,R,X
-  10
-  17,L
-   4,D
-   2,L,D
-   1,D
-   1,L,D
-   1,D
-   1,L,D
-   8,R,D
-   5,R,U,Z
-   9,R
-   1,J
-  20,L,J
+  26,L,D
    5,D
    2,L
-   9,J
+   1,D
+   1,L,D
+   1,D
+   1,L,D
+   2,D
+   6,R,D
+   5,R,U,Z
   10,R
+   1,J
+  16,L,J
+   9,L
+   9,R,J
+   8,R
+   5,R,Z
+  25,D
+  10,R,D
+   8,D
+  10,R,D
    5,R,X
-  35,D
-  13,R,D
-   5,R
-   5,R,X
-  18,R
-   7,L
+  20,R,D
+   6,L,D
    7,R
    5,U,X
   13
    5,L,Z
    5
-   6,R,J
+   5,R,J
    5,R,D,X
   48,R
-
-#lvl_heart
    3,R,J
-   5,K
+   1,K
+   5,L,K
    5,U,X
- 237
+ 236
 
-ChapterTime: 0:37.995(2235)
-
+ChapterTime: 0:37.281(2193)
 
