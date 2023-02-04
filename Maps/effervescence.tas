@@ -8,15 +8,17 @@ console load FrogelineProject2021/1-Maps/alion8me
    5,R,Z
   17,R,J
   37,R,X
-  27,R,J
+  22,R,J
+   5,R
    5,R,X
-  38,R,D
-   4,R,Z
+  35,R,D
+   3,R
+   9,R,Z
    1,R,J
-   7,R
-  15,R,J
-  30,R,U,X
-  18,R,J
+   6,R
+   2,R,J
+  38,R,U,X
+  18,R,K
   15,U,X
   40
 
@@ -298,17 +300,16 @@ endrepeat
 #lvl_a-07
   11,R
   16,R,U,X
-  19,R,C
-   3,J
-  16
-   5,R,D
-  17,R,Z
+  24,R,J,C
+  11,R
+  18,R,Z
   42,R
   29,R,X
    4,R,K
-  30,R,J
-  10,R,X
-  31,R,D
+  12,R,J
+  18,R
+  15,R,X
+  24,R,D
   40,R
   14,R,Z
    1,R,J
@@ -338,4 +339,4 @@ endrepeat
   73
 
 #End
-ChapterTime: 1:27.975(5175)
+ChapterTime: 1:27.805(5165)
