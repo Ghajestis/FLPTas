@@ -1,0 +1,1085 @@
+RecordCount: 1297
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 2624 280
+   1
+#0CM
+  36
+   5,R,Z
+   1,R,J
+   7,R
+   4,R,J
+  10,R,D,X
+   3,R,J,G
+  10,R
+   5,R,J
+  14,U,X
+   3,R,J
+  11,R
+  12,R,J
+  13,L,U,X
+   1,J,G
+  13
+   1,N
+   7
+#0:01.836(108)
+#0CMEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 488 -144
+   1
+#Play 1RA
+
+#1TDS
+  36
+   4,X
+   4,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   3,R,J
+  15,R,D,X
+  34,R,D
+   8,R,U,X
+   4,R,J,G
+  11,R
+   1,N
+  12
+#0:02.006(118)
+#1TDSEnd
+
+Play 1RAEnd
+#1RA
+  36
+   2,L,K
+  10,L,X
+   3,L,J
+   2,L
+   7,L,U,X
+   9,L,J,G
+   7,L
+   2,L,J
+  14,U,X
+  11,L,J
+   2,R,K
+   7,R
+   5,R,J
+  15,U,X
+  10,R
+  10,R,J
+   2,R
+  15,U,X
+  16,R
+   1,N
+  14
+#0:02.533(149)
+#1RAEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1472 496
+   1
+#Play 3RC
+#3BL
+  36
+  11,L,Z
+   8,L,J
+   1,L
+   8,L,J
+   6,L,D,K
+  14,U,X
+  12,L,J
+  11,L
+   3,R,J
+  15,L,X
+   1,N
+  12
+#0:01.581(93)
+#3BLEnd
+
+Play 3RCEnd
+
+#3RC
+  36
+#lvl_FLPlobby1
+  11,L,Z
+   8,L,J
+   1,L
+   8,L,J
+   6,L,D,K
+  14,U,X
+  12,R,J
+  11,R
+   4,Z
+   2,R,J
+   8,R
+   1,R,J
+  14,R,D,X
+   7,R,J
+   2,R,K,G
+   2,R,J,G
+   2,R
+  14,R,D,X
+   1,R,J
+  40
+
+#lvl_FLPlobby2
+  12,R,D,X
+   3,R,J
+  81,R,D,X
+   1,N
+  13
+#0:04.369(257)
+#3RCEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 392 80
+   1
+Play 4CH
+
+#4TDS
+  36
+   4,X
+   6,R,J
+   8,R
+  14,R,Z
+   6,R,J
+  15,R,D,X
+   2,R,J
+   1,R,K,G
+  11,R
+  22,R,J
+  14,R,U,X
+   2,R,J,G
+   7,R
+   3,R,J
+  10,R,U,X
+   7,R,J,G
+   5,R,K,G
+  11,R
+   1,N
+  13
+#0:02.499(147)
+#4TDSEnd
+
+Play 4CHEnd
+#4CH
+  36
+   4,X
+   6,R,J
+   8,R
+  14,R,D,C
+   1,R,J
+   9,R
+  15,D,X
+  15,L,D,C
+  15,D,X
+   1,L,D
+  15,L,D,X
+   1,L
+  15,D,C
+  22,R
+   1,N
+  14
+#0:02.295(135)
+#4CHEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 288 256
+   1
+
+#5CH
+  36
+  14,L,Z
+   1,L,J
+   4,L
+  15,D,X
+  16,R,D
+   4,Z
+   8,R,J
+   4,R
+   2,R,K
+  14,R,Z
+   1,R,J
+  11,R
+  13,R,U,X
+   1,R,J,G
+  15,R
+   1,N
+   5
+#0:01.938(114)
+#5CHEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1896 112
+   1
+
+Play 6TFT
+
+#6THS
+  36
+   4,Z
+   1,R,J
+   7,R
+   5,R,J
+  14,R,D,X
+   1,R,J
+  16,R
+   1,N
+   5
+#0:00.816(48)
+#6THSEnd
+
+#Play 6TFTEnd
+#6TFT
+  36
+#lvl_FLPlobby2
+  11,L,Z
+  10,L,J
+   8,L,D,X
+   3,L,J,G
+   6,L,K,G
+   1,L
+   6,L,K,G
+   5,L
+  20,L,J
+   2,L,K
+  15,L,U,X
+  43
+
+#lvl_FLPlobby1
+   5,L
+  15,U,X
+   5,L
+  12,L,J,G
+   5,L,K,G
+   7,L
+   4,L,Z
+   8,L,J
+   4,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   7,L
+   1,N
+   4
+#0:03.434(202)
+#6TFTEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 312 -768
+   1
+
+Play 7AS
+
+#7RA
+  36
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   4,R,J
+  10,R,D,X
+   1,R,J
+   4,R
+  15,D,X
+  55,L,D
+  25,D
+   1,N
+   7
+#0:02.363(139)
+#7RAEnd
+
+Play 7ASEnd
+
+#7AS
+  36
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   4,R,J
+  14,R,D,X
+   1,R,J
+   3,R
+  65,U,X
+   7,L,J
+  12,L
+  15,U,C
+  20,R
+   1,N
+  13
+#0:02.873(169)
+#7ASEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1408 304
+   1
+#8BL
+  36
+   1,R,J
+  15,L,D,X
+  15,D,C
+  13,L,D
+  10,L,Z
+   8,L,J
+   3,L
+   1,D,N
+   4
+#0:01.037(61)
+#8BLEnd
+
+Play 8RCEnd
+
+#8RC
+  36
+#lvl_FLPlobby1
+   1,R,J
+  15,L,D,X
+  15,D,C
+   8,R,D
+   5,D
+   6,L,Z
+   1,R,J
+   7,R
+   1,R,J
+  10,R,Z
+   7,R,J
+   2,R,K,G
+   2,R,J,G
+   2,R
+  14,R,D,X
+   1,R,J
+  40
+
+#lvl_FLPlobby2
+  12,R,D,X
+   3,R,J
+  81,R,D,X
+   1,N
+  13
+#0:03.842(226)
+#8RCEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 3072 256
+   1
+#9CM
+  36
+   1,R,J
+  13,L,D,X
+   2,L,J
+  11,L,D,X
+   4,L,J
+  11,L,U,X
+   6,J,G
+   2,R,J
+   2,L,J
+  10,L,K,G
+   7,L
+  15,L,X
+  15,U,C
+  19,L
+   1,L,N
+  14
+#0:02.006(118)
+#9CMEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1096 160
+   1
+Play 10BL
+
+#10TDS
+  36
+  11,U,C
+  40,U,X
+  11,L,Z
+   4,L,J
+  10,L,D,X
+   5,L,J
+   4,L,K,G
+  14,L
+  15,D,X
+   1,L,N
+   5
+#0:01.785(105)
+#10TDSEnd
+
+Play 10BLEnd
+#10BL
+  36
+  12,R,D,X
+   3,R,J
+  17,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   3,R
+  33,D,X
+  11,R,D
+   6,D
+   1,R,D
+   3
+   1,L
+   3,L,J
+  15,L,X
+   1
+   1,N
+  11
+#0:02.074(122)
+#10BLEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 3104 -88
+   1
+
+#Play 13THS
+
+#13CM
+  36
+   4,Z
+   1,L,J
+  12,L
+   1,L,J
+  14,L,D,X
+   7,L,J
+   8,L,D,X
+   1,L,J,G
+  12,L
+   9,L,J
+   1,L
+  17,L,D,X
+   1,L,J
+   8,L
+  15,D,X
+  19,R,D
+  10,L,D,X
+   5,R,J
+  20,R,D,X
+   1,R,J
+   9,R
+  28,D,X
+   1,N
+   3
+#0:03.111(183)
+#13CMEnd
+
+Play 13THSEnd
+#13THS
+  36
+   4,Z
+   1,L,J
+  12,L
+   1,L,J
+  14,L,D,X
+   7,L,J
+   8,L,D,X
+   1,L,J,G
+  12,L
+   9,L,J
+   1,L
+  17,L,D,X
+   2,L,J
+  15,L,D,X
+  51,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  12,L,D,X
+   1,J
+   7
+   1,N
+   5
+#0:03.196(188)
+#13THSEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 208 -272
+   1
+#14RA
+  36
+   6,L,Z
+   1,R,J
+   7,R
+   8,R,J
+  13,R,U,X
+   1,L,J,G
+   9,R,J
+   9,R
+   4,R,J
+  15,U,X
+   8,R
+   6,R,J,G
+  11,R
+   1,N
+  15
+#0:01.785(105)
+#14RAEnd
+
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 288 440
+   1
+
+#16CH
+  36
+  12,R,J
+  14,R,Z
+   6,R,J
+   5,R
+  15,U,X
+  10,L
+   9,R,J
+  15,R,U,X
+  12,R
+   4,Z
+   1,R,J
+   7,R
+   4
+   1,N
+   5
+#0:01.836(108)
+#16CHEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 752 456
+   1
+
+#Play 17BL
+
+#17CH
+  36
+   2,L,K
+  14,L,Z
+   1,L,J
+   9,L,U,C
+   3,L,J,G
+   8,L
+   6,L,J
+   6,L,K,G
+  15,U,X
+   5,R
+   1,J
+   8,L,J
+   7,L,K,G
+   7,L
+   4,Z
+   1,L,J
+   7,L
+   4
+   1,N
+   6
+#0:01.751(103)
+#17CHEnd
+
+Play 17BLEnd
+
+#17BL
+  36
+  14,R,Z
+   2,R,J
+   5,R,K,G
+   5,R,J,G
+   2,R
+   4
+   1,R
+   6,R,D,X
+   4,R,J,G
+   5,R
+   4,R,J
+   1,R
+  11,R,J
+   5,R
+   9,R,J
+   1,R,K
+   1,R
+  11,R,U,X
+   1,R,J,G
+  20,R
+   2
+   1,D,N
+   4
+#0:01.870(110)
+#17BLEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 2232 928
+   1
+#Play 18BL
+#18RC
+  36
+   4,X
+   6,L,J
+   7,L
+   2,L,J
+  58,U,X
+   1,L
+   8,L,D,C
+   1,L,J
+   7,L
+   1,L,J
+  12,L,U,X
+   9,L,J,G
+   7,L,K,G
+   7,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   9,L,D,X
+   1,L,J
+   7,L
+   4
+   1,N
+   7
+#0:02.618(154)
+
+#18RCEnd
+Play 18BLEnd
+#18BL
+  36
+   4,X
+   6,L,J
+   7,L
+   2,L,J
+  58,U,X
+   1,L
+   8,L,D,C
+   1,L,J
+   7,L
+   1,L,J
+  12,L,U,X
+   9,L,J,G
+   7,L,K,G
+   7,L
+   1,L,J
+  14,L,D,X
+   1,R,J
+  10,R,Z
+   7,L,J
+  15,L,U,X
+   4,L
+   1,L,J,G
+  11,L
+   1,N
+ 108
+  18,L
+  14,R,D,C
+   1,L,K
+  11,L,J,G
+   7,L,K,G
+  43
+   4,L
+  16,L,D,X
+   1,L,J
+  14,L
+   1,L,J
+   1,J
+   7
+   1,D,N
+   8
+#0:07.089(417)
+#18BLEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 736 -784
+   1
+#Play 20RA
+
+#20AS
+  36
+   1,R,J
+  10,L,D,X
+  15,L,J
+  15,L,D,X
+   1,L,J
+  10,L,D,X
+  65,U,C
+   7,L,J
+  12,L
+  15,U,C
+  20,R
+   1,N
+  13
+#0:02.890(170)
+#20ASEnd
+
+Play 20RAEnd
+
+#20RA
+  36
+   1,R,J
+  10,L,D,X
+  15,L,J
+  15,L,D,X
+   1,L,J
+  12,L
+  15,D,X
+  60,L,D
+  22,D
+   1,N
+   6
+#0:02.533(149)
+#20RAEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 2096 8
+   1
+#21THS
+  36
+   2,L,J
+  14,L,Z
+   1,L,J
+   5,L
+   2,L,J
+   6,L,D,X
+   1,L,J,G
+  11,L
+   2,L,J
+   8,L
+   1,L,J
+   8,L
+  15,D,X
+  23,R,D
+   4,Z
+   1,R,J
+   7,R
+   3,R,J
+  14,R,Z
+   1,R,J
+  12,R
+  15,R,D,X
+   1,D,N
+   4
+#0:02.431(143)
+#21THSEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 2280 96
+   1
+#Play 22CM
+
+#22THS
+  36
+   6,R,Z
+   1,L,J
+   7,L
+   1,L,J
+   3,L
+  12,L,D,X
+   1,L,J
+   7,L
+   2
+   1,D,N
+   4
+#0:00.663(39)
+#22THSEnd
+
+Play 22CMEnd
+
+#22CM
+  36
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  11,R,D,X
+   4,R,J
+  14,R,X
+   1,R,J
+  12,R,U,X
+   2,R,J,G
+   1,R
+   5,R,K,G
+   1,R
+   3,R,J,G
+   7,R
+   2,R,J
+  10,R,K,G
+  13,R,X
+   1,L,J
+   1,J
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+  29,R,D,X
+   1,R,J
+   9,R
+  28,D,X
+   1,N
+   8
+#0:03.094(182)
+#22CMEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1288 -152
+   1
+#Play 23TFT
+
+#23THS
+  36
+  10,L,Z
+   3,L,J
+  14,L,D
+  15,D,X
+  21,R,D
+   4,Z
+   2,R,J
+   8,R
+   1,R,J
+  12,R,D,X
+   1,R,J
+   7,R
+   1
+   1,D,N
+   3
+#0:01.547(91)
+#23THSEnd
+
+Play 23TFTEnd
+
+#23TFT
+  36
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   3,R,J
+  35,R,D,X
+  40
+
+  54,R,D,X
+   2,R,J
+  15,R,U,X
+   4,R
+   1
+  10,R,D,X
+   5,R,J
+  15,R,D,X
+   1,R,J
+   5,R,U,X
+  10,R,K,G
+   9,R
+   4,R,J
+   3,R
+  11,R,D,X
+   1,R,J
+   7,R
+   1
+   1,D,N
+   5
+#0:04.131(243)
+#23TFTEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 640 600
+   1
+#25CH
+  36
+   8,J
+   4,L,J
+   4,K,G
+   5,L,Z
+   1,L,J
+   7,L
+  12,L,J
+   2,R,K
+  15,U,X
+   9,R
+   4,R,J
+  15,U,X
+   6,J
+   6,R,J
+   4,R,K,G
+   6
+  10,L,D,X
+   5,R,J
+  11,R,U,X
+  12,R,J,G
+   9,K,G
+   2
+   4,L
+   1,L,J,G
+   7,L
+   8,U,X
+  12,L,J
+   6,K
+   6,L,J,G
+   7,L
+   4,L,Z
+   1,L,J
+   7,L
+   3
+   1,D,N
+   5
+#0:03.536(208)
+#25CHEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 2472 720
+   1
+#Play 28CM
+#Play 28BL
+
+#28RC
+  36
+   6,R,Z
+   1,L,J
+   7,L
+   1,L,J
+  13,L,D,X
+   1,L,J
+   7,L
+   2,L,J
+   4,L,K,G
+   3,L,J,G
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  10,L,Z
+   5,L,J
+  10,L,U,X
+   5,L,J,G
+   5,L
+   9,L,K,G
+   7,L
+   1,L,J
+  14,L,D,C
+   2,L,J
+   1,L
+  12,L,J
+   4,L
+   1
+   1,D,N
+   6
+#0:02.499(147)
+#28RCEnd
+
+Play 28BLEnd
+
+#28CM
+  36
+   4,R,Z
+   1,R,J
+  13,R
+  13,R,J
+  15,U,C
+   5,R
+  15,U,X
+   3,R
+  15,R,J
+  15,R
+   2,R,J
+   9,L,K
+  12,U,X
+   7,R,J
+   6,R,K,G
+   7,R
+  11,R,U,Z
+   1,L,J,G
+  10,R
+   9,L,K
+   9,R,U,X
+   3,R,J,G
+   9,R
+   7,R,J
+  17,U,X
+  10,L,J,G
+   2,R,J
+   5,R
+   1,R,J
+   2,R
+  12,R,J
+  15,R,U,X
+  14,U,C
+  13,R,J
+   7,R
+   8,L,J,G
+   4,L,K,G
+  10,L
+   1,N
+  15
+#0:05.270(310)
+#28CMEnd
+
+Play 28BLEnd
+
+#28BL
+  36
+   6,R,Z
+   1,L,J
+   7,L
+   1,L,J
+  13,L,D,X
+   1,L,J
+   7,L
+   2,L,J
+   4,L,K,G
+   3,L,J,G
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  10,L,Z
+   5,L,J
+  10,L,U,X
+   5,L,J,G
+   5,L
+   9,L,K,G
+   7,L
+  18,L,J
+  15,L,U,X
+  10,L
+   1,N
+   7,R
+ 101
+  18,L
+  14,R,D,C
+   1,L,K
+  11,L,J,G
+   7,L,K,G
+  43
+   4,L
+  16,L,D,X
+   1,L,J
+  14,L
+   1,L,J
+   1,J
+   7
+   1,D,N
+   9
+#0:06.732(396)
+#28BLEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 896 -1120
+   1
+#29AS
+  36
+   4,Z
+   1,L,J
+   7,L
+   5,L,J
+   3,L
+   9,L,D,X
+   1,L,J,G
+  10,L
+   2
+   1,L,J
+  15,L,D,X
+   6,L
+   1,L,J
+  14
+   1,D,N
+   7
+#0:01.326(78)
+#29ASEnd
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 336 -1368
+   1
+#30AS
+  36
+  10,L,Z
+  12,R,J
+  15,D,X
+   7,L,D
+   8,L,J
+  14,R,D,X
+   1,R,J
+  29,R,D,X
+   1,R,J
+  12,R
+  20,L,D,X
+  15,D
+   6,L,D
+  10,D
+   1,N
+   3
+#0:02.533(149)
+#30ASEnd
