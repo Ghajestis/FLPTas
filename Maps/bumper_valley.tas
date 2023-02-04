@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 854
+RecordCount: 972
 
 console load FrogelineProject2021/1-Maps/BumperValley
    1
@@ -25,12 +25,18 @@ console load FrogelineProject2021/1-Maps/BumperValley
   14,R,J
    8,R
   18,R,J
-  35,L
-  15,U,X
+  26,L
+  14,L,U,X
+   1,L,J,G
+   3,R,J
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
   10,L
   14,L,Z
    1,L,J
-  13,L,Z
+  11,L,Z
   40
 
 #lvl_a-02
@@ -156,13 +162,17 @@ console load FrogelineProject2021/1-Maps/BumperValley
   32,F,334.524
    1,F,339.853
    1,F,344.071
-  12,U,X
-  29,L,J
+  13,U,X
+  13,L,J
+   4,L
+   1,L,K,G
+   1,L,J,G
+  10,L
    4,L,Z
    2,L,J
    8,L
    1,L,J
-   8,L,D,X
+   5,L,D,X
   40
 
 #lvl_a-07
@@ -260,4 +270,4 @@ console load FrogelineProject2021/1-Maps/BumperValley
   10,U,X
 #End
  135
-ChapterTime: 0:37.978(2234)
+ChapterTime: 0:37.876(2228)
