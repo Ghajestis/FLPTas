@@ -1,0 +1,201 @@
+RecordCount: 161
+
+
+console load FrogelineProject2021/0-Lobbies/1-Maps
+   1
+#Start1
+ 190
+   6,L,Z
+   1,R,J
+   7,R
+   6,R,J
+   6,R,D,X
+   3,R,J,G
+   1,R,K,G
+   7,R
+   1,R,J
+   3,R
+   6,R,J
+   7,R
+   2,R,J
+   5,R
+   4,R,J
+  15,R,D,X
+   1,S
+   1,D,O
+  69,J
+   1,L
+   1,L,K
+   1,L,J,G
+   8,L
+   1,N
+#0:02.618(154)
+#Start1End
+
+console load FrogelineProject2021/0-Lobbies/1-Maps
+   1
+
+#Start4
+ 190
+   6,L,Z
+   1,R,J
+   7,R
+   1,R,J
+  33,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  11,R
+   1,N
+#0:01.139(67)
+#Start4End
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 488 -144
+   1
+#114
+  36
+   2,L,K
+  10,L,X
+   3,L,J
+   2,L
+   7,L,U,X
+   9,L,J,G
+   7,L
+   2,L,J
+  14,U,X
+  11,L,J
+   2,R,K
+   7,R
+   5,L,Z
+   2,L,J
+   2,L
+   1,L,K,G
+   5,L
+   4,L,J
+   9,L
+#0:01.564(92)
+   1,N
+#114End
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 392 80
+   1
+
+#45
+  36
+   4,X
+   6,R,J
+   8,R
+  14,R,D,C
+   1,R,J
+   9,R
+  15,D,X
+  15,L,D,C
+  15,D,X
+   1,L,D
+  15,L,D,X
+   1,L
+  15,D,C
+  15,R,D
+   7,R,Z
+   1,L,J
+   7,L
+   7,L,J
+  18,L,D,X
+   3,L,J
+  14,L,D,X
+  13,L,K
+  15,U,X
+  12,R,J,G
+   1,R,K,G
+   7,R
+   4,Z
+   4,R,J
+   2,R
+   1,R,K,G
+  16,R
+   1,N
+#0:03.927(231)
+#45End
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 392 80
+   1
+#416
+  36
+   4,X
+   6,R,J
+   8,R
+  14,R,D,C
+   1,R,J
+   9,R
+  15,D,X
+  15,L,D,C
+  15,D,X
+   1,L,D
+  15,L,D,X
+   1,L
+  15,D,C
+  15,L,D
+   1,L,J
+   4,L
+  15,D,X
+  23,L,D
+   2,L,J
+  10,L,Z
+   8,L,J
+   4,L
+   1,N
+#0:02.975(175)
+#416End
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 208 -272
+   1
+#1420
+  36
+   6,L,Z
+   1,R,J
+   7,R
+   8,R,J
+  13,R,U,X
+   1,L,J,G
+   9,R,J
+   9,R
+   4,R,J
+  15,U,X
+   8,R
+   6,R,J,G
+   9,R
+  11,R,J
+   5,R
+   2,R,J
+  15,U,X
+   8,R,J,G
+   7,R
+  10,R,X
+  14,L,J
+  15,U,X
+   5,L
+   3,L,J,G
+  29,R
+  15,U,X
+   3,R
+  10,R,J,G
+   2,R
+   3,R,K,G
+   7,R
+   4,X
+   2,R,J
+   9,R
+  13,U,X
+  11,R,C
+   6,R,K,G
+  14,R,Z
+   1,R,J
+  10,R,D,X
+   1,R,J
+   4,R
+   8,R,U,X
+   1,R,J,G
+  19,R
+   1,N
+#0:05.525(325)
+#1420End
