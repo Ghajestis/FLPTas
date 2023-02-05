@@ -1,343 +1,343 @@
 console load FrogelineProject2021/1-Maps/ABuffZucchini3
-1
+   1
 
 #Start
-190
+ 190
 
-#lvl_00
-1,L,J
-10,R,D,X
-5,R,J
-15,R,D,X
-1,R,J
-5,R
-14,R,Z
-1,R,J
-12,R,D,X
-40
+#lvl_ABuffZucchini_HallowedCaverns_00
+   1,L,J
+  10,R,D,X
+   5,R,J
+  15,R,D,X
+   1,R,J
+   5,R
+  14,R,Z
+   1,R,J
+  12,R,D,X
+  40
 
-#lvl_01
-2,R,D,X
-1,R,J
-1,R
-6,R,D,X
-1,R,G
-7,R
-8,R,J
-4,R
-2,R,J
-9,R,D,G
-1,J
-5,R,J
-3,J
-1,R,J
-14,R,U,X
-3,R,G,J
-7,R
-4,R,Z
-1,R,J
-4,R
-40
+#lvl_ABuffZucchini_HallowedCaverns_01
+   2,R,D,X
+   1,R,J
+   1,R
+   6,R,D,X
+   1,R,G
+   7,R
+   8,R,J
+   4,R
+   2,R,J
+   9,R,D,G
+   1,J
+   5,R,J
+   3,J
+   1,R,J
+  14,R,U,X
+   3,R,J,G
+   7,R
+   4,R,Z
+   1,R,J
+   4,R
+  40
 
-#lvl_01b
-7,R
-6
-16,L,J,G
-1,D,G,J
-6,J
-1
-8,J
-4,U,X,G
-15,U
-9,R,J
-1,R
-25,R,J
-15,L,D
-9,L
-2,L,D
-5,L,Z
-1,R,J
-6,R,G
-2,R,J
-7,R
-2,R,J
-1,R
-1,R,D,G
-9,R,Z
-1,R,J
-6,R
-5,R,J
-40
+#lvl_ABuffZucchini_HallowedCaverns_01b
+   7,R
+   6
+  16,L,J,G
+   1,D,J,G
+   6,J
+   1
+   8,J
+   4,U,X,G
+  15,U
+   9,R,J
+   1,R
+  25,R,J
+  15,L,D
+   9,L
+   2,L,D
+   5,L,Z
+   1,R,J
+   6,R,G
+   2,R,J
+   7,R
+   2,R,J
+   1,R
+   1,R,D,G
+   9,R,Z
+   1,R,J
+   6,R
+   5,R,J
+  40
 
-#lvl_02
-5,R,J
-7,R
-1,G
-3,R
-13,R,D
-14,R,D,X
-12,R
-12,L
-3
-1,L
-13
-5,L,G,J
-9,J,G
-2,L,J
-1,D,G,J
-6,J
-1
-8,J
-14,U,X,G
-2,L
-1
-2,R
-1,L,G,J
-6,R,J
-5,L,J
-1,L,G,K
-11,L,G,J
-16,L
-17,G
-9,D,G
-1
-1,J
-1,L,G,K
-24,R,D
-1,R,J
-40
+#lvl_ABuffZucchini_HallowedCaverns_02
+   5,R,J
+   7,R
+   1,G
+   3,R
+  13,R,D
+  14,R,D,X
+  12,R
+  12,L
+   3
+   1,L
+  13
+   5,L,J,G
+   9,J,G
+   2,L,J
+   1,D,J,G
+   6,J
+   1
+   8,J
+  14,U,X,G
+   2,L
+   1
+   2,R
+   1,L,J,G
+   6,R,J
+   5,L,J
+   1,L,K,G
+  11,L,J,G
+  16,L
+  17,G
+   9,D,G
+   1
+   1,J
+   1,L,K,G
+  24,R,D
+   1,R,J
+  40
 
-#lvl_03
-10,R
-1,G
-4,G,J
-2,L,J
-6,L
-14,R,Z
-10,R,J
-17,R
-4,R,J
-14,U,X
-11
-1,L,G
-14
-3,D
-8,R,D
-1,R
-4,L,Z
-3,L,J
-4,L,G
-17,L,J
-6,L
-13
-1,R,D,G
-12,R
-6,U,X
-1,G
-16,L,J
-1,L,G,K
-9,L
-1,D,G
-22
-5,U,X
-16,L,J
-40
+#lvl_ABuffZucchini_HallowedCaverns_03
+  10,R
+   1,G
+   4,J,G
+   2,L,J
+   6,L
+  14,R,Z
+  10,R,J
+  17,R
+   4,R,J
+  14,U,X
+  11
+   1,L,G
+  14
+   3,D
+   8,R,D
+   1,R
+   4,L,Z
+   3,L,J
+   4,L,G
+  17,L,J
+   6,L
+  13
+   1,R,D,G
+  12,R
+   6,U,X
+   1,G
+  16,L,J
+   1,L,K,G
+   9,L
+   1,D,G
+  22
+   5,U,X
+  16,L,J
+  40
 
-#lvl_04
-11
-2,G,J
-10,L,X
-11,R,J
-5,R
-2,R,J
-3,R
-14,R,Z
-33,R,J
-14,R,X
-10,R
-11,Z
-3,L,J
-6,L,D,X
-1,R,G,K
-19
-3,D
-1
-1,D
-2
-5,L,Z
-1,R,J
-6,R
-3,R,J
-3
-1,G
-14
-1,D,G
-1,R
-9
-10,L,D,X
-3,R,J
-1,R,G,J
-4,R,J
-5,R
-1,R,J
-8,R
-4,R,J
-1,R,D,G,J
-2,R,J
-14,L,D,X
-1,R,J
-2,R
-11,R,U,X,G
-1,G,J
-1,J
-6,R
-3,L
-1,L,J
-3
-10,L,Z
-1,R,J
-6,R
-1,R,G
-1,R,J
-40
+#lvl_ABuffZucchini_HallowedCaverns_04
+  11
+   2,J,G
+  10,L,X
+  11,R,J
+   5,R
+   2,R,J
+   3,R
+  14,R,Z
+  33,R,J
+  14,R,X
+  10,R
+  11,Z
+   3,L,J
+   6,L,D,X
+   1,R,K,G
+  19
+   3,D
+   1
+   1,D
+   2
+   5,L,Z
+   1,R,J
+   6,R
+   3,R,J
+   3
+   1,G
+  14
+   1,D,G
+   1,R
+   9
+  10,L,D,X
+   3,R,J
+   1,R,J,G
+   4,R,J
+   5,R
+   1,R,J
+   8,R
+   4,R,J
+   1,R,D,J,G
+   2,R,J
+  14,L,D,X
+   1,R,J
+   2,R
+  11,R,U,X,G
+   1,J,G
+   1,J
+   6,R
+   3,L
+   1,L,J
+   3
+  10,L,Z
+   1,R,J
+   6,R
+   1,R,G
+   1,R,J
+  40
 
-#lvl_05
-16,R,D
-1,D,G
-14,D,X
-5,R,D
-9,R
-14,L,D,C
-2,R,J
-8,R,D,X,G
-1,R,G,J
-1,R,G,K
-1,R,G,J
-1,R,G,K
-16,R
-12,R,J
-1,R,D,G,J
-12,U,X
-2,R,J
-12,R
-4,R,Z
-1,R,J
-7,R
-1,R,J
-2,R
-9,R,D,X
-40
+#lvl_ABuffZucchini_HallowedCaverns_05
+  16,R,D
+   1,D,G
+  14,D,X
+   5,R,D
+   9,R
+  14,L,D,C
+   2,R,J
+   8,R,D,X,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  16,R
+  12,R,J
+   1,R,D,J,G
+  12,U,X
+   2,R,J
+  12,R
+   4,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   2,R
+   9,R,D,X
+  40
 
-#lvl_06
-5,R,D,X
-1,R,J
-14,R,D,X
-1,R,J
-12,R,D,X
-1,R,J
-5,R
-2,R,J
-2,R
-1,G
-3,L,D
+#lvl_ABuffZucchini_HallowedCaverns_06
+   5,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  12,R,D,X
+   1,R,J
+   5,R
+   2,R,J
+   2,R
+   1,G
+   3,L,D
 REPEAT,5
-1,D
-1,D,L
+   1,D
+   1,L,D
 ENDREPEAT
-15,R,U,Z
-1,G,J
-7
-3,G
-12
-6,R
-6,R,D
-4,L,Z
-1,L,J
-12,L
-1,G
-7,R,D
-20,R,J
-9,U,X
-10,R,J
-5,R
-4,R,J
-9,R
-9,G
-9,L,D
-38,D
-3,L
-7,L,Z
-1,R,J
-7,R
-1,R,J
-6,R,D,X
-1,R,G,J
-3,J
-40
+  15,R,U,Z
+   1,J,G
+   7
+   3,G
+  12
+   6,R
+   6,R,D
+   4,L,Z
+   1,L,J
+  12,L
+   1,G
+   7,R,D
+  20,R,J
+   9,U,X
+  10,R,J
+   5,R
+   4,R,J
+   9,R
+   9,G
+   9,L,D
+  38,D
+   3,L
+   7,L,Z
+   1,R,J
+   7,R
+   1,R,J
+   6,R,D,X
+   1,R,J,G
+   3,J
+  40
 
-#lvl_07
-2,J
-1,R,J
-1,R,G,J
-5,R
-1,R,J
-4,R
-1,G
-17,R,J,G
-1,D,G,J
-9,J
-1
-5,J
-14,U,R,X,G
-3,R
-1,R,G,J
-1,R,G,K
-10,R,D
-1,D,G
-15,D
-12,R,D
-4,R
-14,R,Z
-1,R,J
-6,R
-7,R,J
-40
+#lvl_ABuffZucchini_HallowedCaverns_07
+   2,J
+   1,R,J
+   1,R,J,G
+   5,R
+   1,R,J
+   4,R
+   1,G
+  17,R,J,G
+   1,D,J,G
+   9,J
+   1
+   5,J
+  14,R,U,X,G
+   3,R
+   1,R,J,G
+   1,R,K,G
+  10,R,D
+   1,D,G
+  15,D
+  12,R,D
+   4,R
+  14,R,Z
+   1,R,J
+   6,R
+   7,R,J
+  40
 
-#lvl_08
-3,R,J
-14,R,D,X
-4,R
-1,R,J
-1,R,K
-1,R,J
-1,R,K
-1,R,J
-1,R,K
-1,R,G,J
-2,R,K
-10,R
-6,R,J
-14,R,U,X
-2,R,G,J
-7,R
-6,R,J
-1,R
-14,U,X
-14,R
-1,R,J
-12,R,U,X
-1,R,G,J
-13,R
-3,R,J
-14,R,U,X
-10,R
-10,X
-4,R,J
-14,R,U,X
-74,R
-1,R,X
-27,R,J
-32,R,G,K
+#lvl_ABuffZucchini_HallowedCaverns_08
+   3,R,J
+  14,R,D,X
+   4,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J,G
+   2,R,K
+  10,R
+   6,R,J
+  14,R,U,X
+   2,R,J,G
+   7,R
+   6,R,J
+   1,R
+  14,U,X
+  14,R
+   1,R,J
+  12,R,U,X
+   1,R,J,G
+  13,R
+   3,R,J
+  14,R,U,X
+  10,R
+  10,X
+   4,R,J
+  14,R,U,X
+  74,R
+   1,R,X
+  27,R,J
+  32,R,K,G
 
 #End
 ChapterTime: 0:37.332(2196)
