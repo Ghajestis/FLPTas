@@ -154,7 +154,7 @@ endrepeat
   40
 
 #lvl_a-04
-   9,L,U
+   9,L
    1,J
   15,U,C
   16,R,J
@@ -308,19 +308,20 @@ endrepeat
   29,R,X
    4,R,K
   12,R,J
-  18,R
+   5,R
+   4,R,J
+  11,R
   15,R,X
-  24,R,D
+  23,R,D
   40,R
-  15,R,C
-   6,L,D,X
+  14,R,Z
    1,R,J
-
-   7,R
+   6,R
   21,R,J
   14,R,U,X
   51
-  85,R,D
+  79,R,D
+   6,R
   42,R,Z
    4,J
   12,U,X
@@ -335,10 +336,10 @@ endrepeat
   14,U,X
   19,L,J
    4,X
-  29,R,D
-   7,J,G
+  30,R,D
+   6,J,G
   28,L
   72
 
 #End
-ChapterTime: 1:26.870(5110)
+ChapterTime: 1:26.785(5105)
