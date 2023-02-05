@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 688
+RecordCount: 1223
 
 console, load, FrogelineProject2021/1-Maps/Reversal 101
    1
@@ -9,89 +9,74 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
  190
 
 #lvl_a01
-   8,R,D,C
+   6,L,D,C
    1,R,J
    7,R
    1,R,J
-  13,R
-   9,L,Z
+  11,R,D,X
+   2,R,J
+   9,R
+   1,R,J
+   1,R
+  14,R,D,X
    1,R,J
    7,R
-   1,R,J
-  14,R,X
-  21,R,J
-  11,K
-   1,L,K
-   1,R,K
-  14,R,J
-  11,K
-   1,L,K
-   1,R,K
-  12,R,J
+   3,R,J
+  14,R,U,X
+  13,J
+  13,K
+  13,J
+   8,K
+   7,R
    6,R,Z
    1,R,J
-   6,R
+   4,R
   40
 
 #lvl_a02
-   1,R
+   3,R
    1,R,J
-  14,R,D,X
-  12,R,J
-  11,K
-   1,L,K
-   1,R,K
-   1,J,G
-   6,L,J
-   2,K
-   1,R,K
-   1,J,G
-   7,R,J
-  17,R,X
-  15,U,C
-  10,K
-   4,L,J,G
+  12,R,Z
+  10,R,J
+  14,U,Z
+  14,J
+  18,R,X
+  14,U,C
+   5,J
   14,R,D,X
   12,R,U,C
   13,L,D,X
   12,L,U,C
-  15,D,X
-   7,K
-   4,L,K
-   1,R,K
-   1,L,K
-  14,L,J
-  11,K
-   1,R,K
-   1,L,K
-   3,L,J
-   5,R,D,X
+  14,D,X
+   9,R,J
+  15,U,X
+  10,R
+   7,R,Z
    1,R,J
-   7,R
-   2,R,J
-  14,R,D,X
+   6,R
    1,R,J
-   6,R,D,X
+  12,R,D,X
   40
 
 #lvl_a03
-   1
-   2,R,J
-  13,R
+   2,R,D,X
+   1,R,J
+   2,R
+  14,R,X
    4,Z
    1,L,J
   12,R,J
    8,R
-  14,R,Z
+  14,R,X
    1,R,K
   12,R
   14,L,X
   13,R,C
   15,L,X
-   5,R,Z
+   2,R
   15,R,X
   15,L,C
-   5,R,X
+   2,R
   15,R,C
   18,D,X
   15,R,C
@@ -108,63 +93,58 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
 #lvl_a04
    8,L,D
   10,L,D,X
-  36,L,J
-  15,D,X
-   4,L,D
-  14,D
-  10,R,D
-   9,L,D
-  19,D
-  15,L,X
-  15,D,C
+   9,L,J
+   5,L
+   2,L,J
+  10,L
+  42,D
+  24,R,D
+  14,R
+   6,R,D
   15,U,X
    1,J
-   1,D
+   1
   15,U,X
   13,D
-  12,R,X
-   7,K
-   1,R,K
-   3,K
-   1,L,K
-   7,R,J
-  25,D
-  15,L,X
-  10,L
-   4,K,G
-   2,L,K
-   5,K
-   1,L,K
-   1,R,K
-  11,L,J,G
-  10
-  10,L,D
-   8,D
-   3,R,J
-   2,R
-   8,R,J
-  15,D,X
-   1,D
-  14,R,D,X
+  15,R,U,Z
+   1,R
+   7,J
+  26,D,G
+   1,J,G
+   2,K
+   4,L,K
+   3,L
+   2
+  15,L,Z
+   1
+  12,K,G
+   1,J,G
+  16
+  15,R
+   3,R,D
+   2,D
+  14,R,D
+   6,R,Z
+   1,R,J
+   7,R
    1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
-   1,R,J
+   9,R,D,X
+   2,R,J
   40
 
 #lvl_a05
-  12,R,J
+  11,R,J
   18,L,D,C
   18,L,D,X
   18,L,D,C
-  10,L,D,X
+  11,L,D,X
   14,R,C
   15,L,U,X
-   5,L,U,C
-  10,R,D
-  15,L,U,X
-   5,R,D
+  15,L,U,C
+  18,L,U,X
+   2,R,D
   13,L,Z
    2,R,J
   14,R,D,X
@@ -179,83 +159,78 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
    2,L,J
   15,D,X
   27,R,J,G
-  10,K
-   1,L,K
    1,R,K
-   3,R,J
+   4,L,K
+   7,R,K
+   2,R,J
+   1,K,G
   40
 
 #lvl_a07
-  11,R
+   1,R,J,G
+   4,R,K,G
+   6,R
   15,R,U,X
-  16,R
-   7,L,U,X
-   1,L,J
-   7,L
-   1,R,J
-  15,D,X
-   3
-   1,L,K,G
-  11,L
-   5,L,D,X
-   1,L,J
-   7,L
-   1,L,J
-   1,L
-  14,L,D,X
-   1,L,J
-  15,U,X
-  17,L
-  14,L,X
-   1,L,J
-  16,D,X
-   3,L
-  10,K,G
-  10,J,G
-  11,R
-  10,R,U,X
-   5,R,J
-  11,D,X
-   1,J
-  14,L,U
-   4,U
-  10,R,U
-   4,Z
-   1,R,J
    7,R
-   1,R,J
-   2
-  15,U,X
-   3,D
-  13,L,U
-   1,L,J
+   2,L
+  10,L,Z
+   3,L,J
+   2,L
+  15,D,Z
+   1,R,J,G
+   1,R
    6,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  13,L,D,X
+   1,L,J
+   2,L
+  15,U,Z
+   1,R,J,G
+  11,L
+  10,L,X
+   6,L,J
+  15,D,Z
+   8,J
+   4,L
+   4,R
+   1,R,J
+   3,R
+  10,R,X
+   5,R,J
+  12,R,D,X
+   1,L,J,G
+  25,R,U
+  10,R,Z
+   1,R,J
+   4,R
   15,U,X
-   3,R,D
-   5,R,D,X
+   3,L,D
+   7,U
+   6,L,U
+  14,L,U,X
+   1,L,J
+  15,L,U,X
+   7,R,D
+   1,R,J
+   1,R
+   1
+   7,R
+  14,R,D,X
+   1,R,J
+  15,L,D,X
+   9,R,U
+   4,R,Z
+   1,R,J
+   8,R
+   2,L
+  15,R,D,X
+   2,R,D
+   6,R,Z
    1,R,J
    7,R
-   2,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-   7,R
-   2,R,J
-  15,D,X
-   5,R,U
-   7,L,U,X
-   1,R,J
-   7,R
-   1,R,J
-  14,R,U,X
-   1,R,J
-  15,D,X
-   5,R,D,C
-   1,R,J
-   7,R
-   2,R,J
-  14,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
@@ -264,98 +239,95 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
   14,R,D,X
    1,R,J
   14,R,D,X
+   1,R,J
+  10,R,D,X
   40
 
 #lvl_a08
+   4,R,D,X
    1,R,J
-  14,R,D,X
+   1,R
    2,R,J
-   4,R
-  15,D,X
-   7,U
-   5,L,U,X
+   7,R
+  21,L,U
+   6,L,U,X
+   1,L,J
+   2
+   5,L
+   1,L,J
+  14,L,U,X
+   1,L,J
+   7,L
+  13,L,J
+  15,L,D,X
+  31,L,U
+   5,R,U,X
    1,L,J
    7,L
    1,L,J
    1,L
-  14,L,U,X
-   1,L,J
-  14,L,U,X
-   1,L,J
-   3,L
-  14,L,Z
-   6,L,J
-  13,D,X
-   1,J
-  21,U
-  12,L,U
-   5,L,U,X
-   1,L,J
-   7,L
-   2,L,J
-   8,L,U,X
-   2,L,J,G
-   9,L
-  10,L,X
-  13,L,J
-  15,L,X
-   6,L
+   7,L,U,X
+   1,L,J,G
+  10,L
+  15,L,D,X
+  24,L
+   5
   11,L,X
   11,L,C
-  15,R,X
-   7,D
   15,R,Z
-   8,R
-   1,R,J
-   3,R,K,G
-   5,R,Z
-   1,R,J
-   7,R
+  11,R,D,X
+   3,R,J
+   4,R,K,G
+   4,R,J,G
+  10,R,D,X
   40
 
 #lvl_a09
-   2,L,J
-  10,R,D,X
-  12,R,J
-  21,D
-  74,L
-  13,R
-   1,G
-   6,U,G
-  61,R,J,G
-   7,L,U
-  10,U
-   3,L,U
-   9,L
-   1,G
-   1,U,G
-  27,L,J,G
-  50,L,U
-  13,U
-  14,R,D,X
+   4,R,D,X
+   9,R,J
+   1,R
+   2,R,J
+  14,R,D
+  58,L,U
+   2,R,U
+  15,R,U,X
+  36,R,U
+  20,L,U
+  27,L
+  51,L,U
+   8,R,D
+   6,R,Z
    1,R,J
-   9,R,D,X
+   7,R
+   1,R,J
   40
 
 #lvl_heart
-   5
-   1,R,J
   14,R,D,X
    1,R,J
-  14,R,D,X
+   8,R,D,X
    1,R,J
-  14,L,J
-   3,K,G
-   1,R,K
+   7,R
+   8,R,J
+   4,L,J
+  14,L,D,X
+   1,L,J,G
+   4,R,J
+   5,L,J
+  12,L
+   1,L,J
+  27,U,X
    1,J
-   5,R,J
-  11,L,K,G
-  10,J,G
-   5,L,K,G
-   8,L
-  10,U,X
-
-#End
- 135
+  15,L,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,J
+   1,L,K,G
+   6,R,J
+  37,R,Z
+   1,R,J
+  12,R
+  41,R,U,X
    
-ChapterTime: 0:47.515(2795)
+ChapterTime: 0:42.840(2520)
