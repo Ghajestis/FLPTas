@@ -1,0 +1,181 @@
+RecordCount: 207
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1272 384
+   1
+
+#BL18
+  36
+#lvl_FLPlobby1
+   4,R,Z
+   1,R,J
+  12,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  11,R,D,X
+   7,R,J
+   2,R,K,G
+   2,R,J,G
+  11,R
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_FLPlobby2
+   7,R,D,X
+   3,R,J
+  81,R,D,X
+   6,R,Z
+   1,R,J
+   7,R
+   8,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  24,R,D,X
+   1,R,J
+   5,R
+  60,D,X
+   1,N
+#0:05.355(315)
+#BL18End
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1272 384
+   1
+
+#BL10
+  36
+  10,L,Z
+   1,R,J
+   7,R
+   5,R,J
+  14,U,X
+  18,R,J
+  12,L,K
+  12,R,J
+  11,L,K
+   1,L
+   8,R,J
+   4,L,K
+   7,L
+   4,L,Z
+   1,L,J
+   7,L
+   4,L,J
+  11,L,X
+  11,L,K,G
+   7,L
+   3,L,J
+   2,L,K,G
+  15,L,D,X
+   1,N
+#0:02.737(161)
+#BL10End
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 2836 160
+   1
+
+#CM13
+  36
+  10,L,J
+   2,L
+  15,U,X
+   7,L
+   3,L,J,G
+   7,L
+   4,L,Z
+   1,L,J
+   7,L
+   4,L,J
+   1,L,K,G
+  11,L,U,X
+  10,L,J,G
+   2,L
+   4,L,K,G
+   6,L
+   1
+   8,R,J
+  15,U,X
+  10,R
+   3,R,J
+   5,R,Z
+   4,R,J
+   4,R,K,G
+   8,R
+   1,R,J
+  10,R,D,X
+   8,R,J
+   4,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   7,R,J
+   7,R,K,G
+   6,R
+   8,R,Z
+   1,R,J
+  12,R
+   1,N
+#0:03.893(229)
+#CM13End
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 1372 -24
+   1
+#TFT6
+  36
+#lvl_FLPlobby1
+   4,R,Z
+   2,R,J
+   8,R
+   1,R,J
+  13,R,D,X
+   3,R,J
+  14,R,D,X
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_FLPlobby2
+   8,R,D,X
+  32,R,D,C
+   5,R,J
+  16,R,D,X
+   1,R,J
+   6,R,U,X
+   2,R,K,G
+   9,R
+   1,N
+#0:02.567(151)
+#TFT6End
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 532 312
+   1
+#CH25
+  36
+   8,R,Z
+   1,R,J
+   7,R
+   2,R,J
+  17,R,D,X
+  12,R,D,C
+   3,L,J
+  15,L,D,X
+  10,D
+  30,R,D
+   4,D
+   4,L,J
+  10,R,D,X
+   1,R,J
+  15,R,D
+  14,R,D,X
+   3,R,J
+  15,R,D,X
+   5
+   1,N
+#0:02.652(156)
+   1
+#CH25End
