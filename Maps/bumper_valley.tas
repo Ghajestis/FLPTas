@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 972
+RecordCount: 1034
 
 console load FrogelineProject2021/1-Maps/BumperValley
    1
@@ -57,20 +57,19 @@ console load FrogelineProject2021/1-Maps/BumperValley
    3,L,J
    1,J
   52,R,D
-   4,R,J
+   2,R,J
+   3,J
+  14,L,K
   15,U,X
-   2,R
-   9,R,J
   40
 
 
 #lvl_a-04
-   4,J
-   7,R,J
-  10,R,U,X
-   1,R,J,G
-   7,R
-   4,Z
+   2,L
+  12,R,J
+   1,R
+   1,R,K,G
+   5,R,Z
    1,R,J
    7,R
   24,R,J
@@ -79,24 +78,10 @@ console load FrogelineProject2021/1-Maps/BumperValley
   10,L
    1,L,J
    5,L
-  16,R
-  15,R,X
-  30
-   1,R,D
-
-#  11,F,75
-#  31,F,34.529
-#   1,F,37.696
-#   1,F,43.016
-#  24,F,83.303
-#   1,F,77.969
-#  51,F,56.894
-#  15,R,U,X
-#   8,R
-#   7,R,J,G
-#   7,R
-#   7,R,U,Z
-#  40
+  25,R
+  10,R,D,X
+  26
+   1,R,U
 
 #lvl_a-06 (0)
 #   5,R,U,Z
@@ -121,10 +106,9 @@ console load FrogelineProject2021/1-Maps/BumperValley
 #0:15.657(921) +31f
 
 
-  11,F,75
-  30,F,34.123
-   1,F,34.127
-  74,F,90.025
+  10,F,40
+  23,F,35.41
+  74,F,90
   14,R,X
   40
 
@@ -270,4 +254,4 @@ console load FrogelineProject2021/1-Maps/BumperValley
   10,U,X
 #End
  135
-ChapterTime: 0:37.876(2228)
+ChapterTime: 0:37.638(2214)
