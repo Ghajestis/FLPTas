@@ -108,23 +108,18 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
    1,R,J
    3
    1,R,J
-  43,G
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  20,L,J
-  15,L,U,X
-  11,U,C
-  38,L,J
-  10,R,K
-  31
-  18,R,D,X
-  45,R,J
+  45,G
+   1,L,J
+  11,R,J
+  15,R,U,X
+  40,R,U,C
    6,R,Z
    1,R,J
    7,R
    1,R,J
-  11,R,D,X
+  14,R,D,X
+   1,R,J
+   7,R,D,X
   40
 
 #lvl_Exp Scribbles-04
@@ -180,37 +175,39 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
 #lvl_Exp Scribbles-05
    3
   15,R,X
-   6,R,Z
+
+   4,R,Z
    1,R,J
-   5,R
-Stunpause, Input
-   2,R
-  17,R,J
-   1,R,U,X
-endstunpause
-   3,R,U,X
-Stunpause, Input
-  13,R,U
-   1,R,J,G
-endstunpause
+  10,R
+  21,L
+   9,L,D
+  15,L,Z
+   6,R
+   1,L,J
+   8,L,X
+   8,L
+   3
+  15,U,X
+  10,R,D,C
    1,R,J
-Stunpause, Input
-   5,R,J,G
-   1,R
-endstunpause
-  18,R,J,G
-   2,L
-   6,R,J
-   1,R
-  14,R,J
-  34
+   7,R
+  30,R,J
+  32,R,D,X
+  29,G
+  13,L,J
+  12,R,U,X
+   2,R,J,G
+   3,R
+  11,R,J
+  30
    4,L
-  21,G
-  18,R,J
-  10,L,U,X
+  14,G
+   6,D,G
+  19,R,J
+  11,L,U,X
    1,L,J,G
-   1,L
-  13,R
+   6,L
+   8,R
   25,L
   12,U,X
   45,L,J
@@ -306,10 +303,8 @@ endstunpause
    4,R
    1,R,J,G
   14,R
-
    2,R,J
    7,R,D,X
-
    2,R,J,G
   36,R,K,G
    1,R,J
@@ -336,4 +331,4 @@ endstunpause
   16,L
    1,L,J
   98,L,D,X
-#1:11.128(4184)
+#1:07.813(3989)
