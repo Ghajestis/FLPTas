@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 1475
+RecordCount: 1482
 
 console load FrogelineProject2021/1-Maps/AscensionToHeaven
    1
@@ -426,7 +426,6 @@ console load FrogelineProject2021/1-Maps/AscensionToHeaven
   37
    1,L
   17,L,Z
- 
   10,R,D,X
   22,L,K
    4,L
@@ -604,8 +603,7 @@ console load FrogelineProject2021/1-Maps/AscensionToHeaven
   15,L,X
    7,L
   18,U,Z
-  16,J
-   2,L,J
+  18,J
   15,U,X
   18,L,J
   15,L,U,X
@@ -635,7 +633,6 @@ console load FrogelineProject2021/1-Maps/AscensionToHeaven
    7,R,K
   15,U,X
   18,L,J
-
   47,L,X
    4,R,G
   48,R,X
