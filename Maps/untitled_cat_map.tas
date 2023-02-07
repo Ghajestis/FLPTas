@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 818
+RecordCount: 1396
 
 console load FrogelineProject2021/1-Maps/cat
    1
@@ -13,69 +13,72 @@ console load FrogelineProject2021/1-Maps/cat
   15,R,D,X
    7,R
    1,N
- 130
+ 131
+   4,L,Z
+   1,L,J
+  10,L
    1,R,J
-  25,R
-   1,L
-Repeat 11
-   1,D
-   1
-Endrepeat
-   4,R
-  15,L,Z
-  10,D,X
+   8,R
+   2,R,J
+   5,R
+  14,L,Z
+   1,R,J
+   6,R
+   1,R,J
+  14,R,D,X
+   3,R,D
+   1,R,D,J
+   1,R
+  10,D,C
   40
 
 #lvl_1
-  82,L,D
+  76,D
+   6,L,D
   40
 
-#lvl_2
-   1,L,D
-  22,L
-  15,L,X
-   6,L,Z
+#lvl_2 (0)
+   2,L,D
+  19,L
+  14,L,Z
    1,L,J
-   7,L
-   1,L,J
+   1,L
   14,L,D,X
    1,L,J
-   6,L,D,X
+  13,L,D,X
   40
 
 #lvl_10
-   2,L,D,X
+   1,L,D,X
    1,L,J
-   7,L
-  24,L,J
-  38,L,U,G
-   1,J
-  21,U,X
-  14,R,Z
-   1,L,J
-   8,L
-   8,L,D,J
-  17,L,X
-   4,L,J
-  14,R,U,C
+  14,L,D,X
+  19,L,J
+   1,L,G
+  15,L,U,X
+   4,R,G
+  11,R,U,X
    4,R,J
-   1,L,K,G
-  10,L,K
-  24,L,U,X
-   1,L,J
-   6,L,Z
+   8,K
+  25,U,X
+  11,R,Z
    1,L,J
    7,L
-   1,L,J
-  10,L,D,X
+  10,L,J
+  11,L,U,X
+  22,R,G
+   1,R,D,G
+   7,D
+   1,R,G
+  18,R,U,X
+   4,L,Z
+   1,L,K
+   4,L,J,G
+   1,L,K,G
+  11,L
   40
 
 #lvl_11
-   4,L,D,X
-   1,L,J
-  10,L,D,C
-   1,L,J
-   7,L
+   2,L
   12,L,J
   20,L,G
   10,L,X
@@ -85,49 +88,52 @@ Endrepeat
   20,L,K
   22,L,U,Z
    4,L,J
-   4,L,K
+   2,L,K
+   3,K
+   1,L,K
   15,U,X
-   5,L
-  37,L,J
+  35,L,J
    1,K
-  10,L,K
+   9,L,K
    7,L
-  11,D
-  21,L,D,X
-   3,L,J
-  15,R,V
-   4,R,J
-  25,R,K
-#0:16.626(978)
-
-  15,U,X
-  14,L,J
+   6,D
+  17,L,D,X
+   6,R,G
+   8,R,K,G
+  10,R,V
+   5,R,J
+  19,R,K
+   4,K
+  14,U,X
+   5,L,J
   11,L
    4,Z
-   1,L,J
-   7,L
+   3,L,J
+   9,L
    1,N
  139
-  16
+   9
   14,L,D,C
    1,R,J
-   7,R
+   8,R
    1,R,J
-  14,L,Z
+  10,L,Z
    1,L,J
-  14,L,D,X
-   3,R,J
+   4,L
+  12,L,D,X
+   2,R,J
+   1,R,K,G
+   3,R
 
-
-#lvl_2
+#lvl_2 (1)
   14,R,D,X
    1,R,J
-   7,R
+  14,R,D,X
    8,R,J
-   1,R
-  23,R,J
+  11,R
   14,R,Z
    1,R,J
+   1,R
   14,R,D,X
    1,R,J
   13,R,D,X
@@ -138,56 +144,65 @@ Endrepeat
    1,R,J
    7,R
    7,R,J
-  20,R,U,X
-   4,R,J
-   1,R,K
-   8,K
+  28,R,U,X
+ 
+   8,R,K
   15,U,X
    1,L
-  10,L,J,G
+   5,K,G
+   5,L,K,G
+   1,L,J,G
    2,L
-   4,L,K,G
-   7,L
+   1
+   4,L
    4,L,Z
    1,L,J
    7,L
-  19,L,J
-   7,L,K,G
+  18,L,J
+   4,L,K,G
    1,J,G
-  11,R,J
+   2,R,J
+  12,R,K
   25,U,X
    4
    6,R
   15,U,X
-   2,R
-  12,R,J,G
-   9,R,K,G
-   7,R
-  12,R,J
-  13,R,X
-   4,R,J
-  10,R,K
-   5,K
-  16
-   5,D
-  14,R,Z
-   4,R,J
-   1,R,K
-  14,R,U,Z
-   7,R,J,G
-   6,R
+   1,R
    1
-  11,L,J
-  21,U,X
+   6,J,G
+   1,L,J
+   1,R,K,G
+   1,R,J,G
+   2,L,J
+   9,R,J
+   1,K,G
+   7,R
+   8,R,J
+  13,R,X
+   8,R,J
+  10,R,K
+  17,D
+   6,R,D
+  10,R,Z
+   4,J
+   4,R,K
+  14,R,U,Z
+   3,R,J,G
+   1,K,G
+   6,R
+   1,L
+   8,L,J
+  22,U,X
    6,R,D,C
    1,R,J
    7,R
+   1,R,J
   40
 
 
 #lvl_a
-   2,R,J
-   8,R,G
+   1,R,J
+  10,R,G
    1
    1,J
    8,R
@@ -214,85 +229,93 @@ Endrepeat
    1,R
    1,N
  154
-  24
+  21
+   7,L,J
+   1,L
+  15,U,Z
+   1,R,J,G
+   1,K,G
+   6,R
+   2,L
+
+#lvl_2 (2)
+  14,L,D,X
+   1,L,J
+   1
+   5,L
+   1
+   1,L,J
+  14,L,D,X
+   1,L,J
+  29,L,D,X
    5,L,J
-  15,U,X
-   5,R
-   2,R,J,G
-   7,R
-   8,L
-   6,L,Z
-   1,L,J
-   7,L
-   1,L,J
-  14,L,D,X
-   1,L,J
-  43,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-  11,L,D,X
+  26,L,D,X
   40
 
 #lvl_3
-   3,L,D,X
+   1,L,D
    1,L,J
-   7,L
-  29,L,J
+   6,L
+  14,L,D,X
+  15,L,J
   24,L,X
-  10,R,G
+   9,R,G
   18,R,D,X
    4,R,J
    1,R,K
   16,R
   30,R,X
-  30,D,C
-  15,L,D
-  11,R,D
-   8,R
-  18,L,X
-  23,R,C
-  36,D,X
-   6,R,D,C
+  15,D,C
+   4,R,D
+   8,D
+  16,L,D
+  10,R,D
+   3,D
+  10,R,U,X
+   4,L,G
+   4,D
+  29,D,X
+   2,R,D
+  13,R,D,C
    1,R,J
-   7,R
-   1,R,J
-   8,R,D,X
+   1,R
+  11,R,D,X
   40
 
 #lvl_4
-   6,R,D,X
+   3,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-  21,R,D,X
+  24,R,D,X
    4,R,J
-   1,R,K
-  18,R,X
+   8,R,G
+   1,L,J
+   8,L,K
+  21,L,C
+  18,R,Z
    4,R,J
-  16,L,U,X
-   8,J
-  20,L,C
-  18,R,X
-   4,R,J
-   1,R,K
+   3,R,K
   15,R,D,X
+   3,R
+  10,R,J
    2,R
-   8,R,J
-   4,J
   10,R,D,X
    1,R,J,G
-  17,R
-   1,R,J
-   7,R
+  16,R
+   2,R,J
+   1,R
+   5
+   1,R
   14,R,U,Z
-   7,L,J,G
-   8,L
-  14,L,Z
-   1,L,J
+   1,K
+   4,L,K
    7,L
+   4,L,Z
+   5,L,J
+  10,L
    1,N
- 150
+ 143
    8,L,Z
    1,R,J
    7
@@ -300,31 +323,29 @@ Endrepeat
   14,R,Z
    1,R,J
   15,R,D,X
-   1,R,D
-   1
-  10
-   1,R
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
+   1,D
+   2,R
   10,R,D,X
-   2,R,J
-   8,R
    1,R,J
-  14,R,D,X
+
+#lvl_2 (3)
+  13,R,K,G
+  15,R,D,X
+   3,R,J
+   8,R,D,X
+   2,R,J,G
+  12,R
    1,R,J
-  14,R,D,X
-   1,R,J
-  10,R,D,X
+  11,R
   40
 
 #lvl_6
-   5,R,J
-  23,R,X
+   3,R
+  19,R,D,C
    4,R,J
    4,R,K
-  17,R,D,X
+   1,R
+  16,R,D,X
    1,R,J
   20,D,X
   21,R,U,C
@@ -337,8 +358,9 @@ Endrepeat
    1,L,K
   19,R,U,X
    4,R,J
-   1,R,K
-  14,R,D,X
+   6,R,D,X
+   1,R,J
+   7,R
    1,R,J
    6,R,D,X
   40
@@ -366,20 +388,21 @@ Endrepeat
   52,D,X
   68,R,C
    1,N
- 170
-   6,L,Z
-   1,R,J
-   7,R
+ 154
+  14,L,J
+  14,R,D,C
    1,R,J
   15,R,D,X
-  14,R,V
-   3,L,J
+  10,R,D,C
+   4,L,K
+   2,L,J,G
+
+#lvl_2 (4)
   14,L,D,X
    1,L,J
   14,L,D,X
    1,L,J
-   1,L
-   6,L,J
+   6,L
   29,D,X
   40
 
@@ -391,4 +414,4 @@ Endrepeat
    1,N
   98
 
-ChapterTime: 1:07.592(3976)
+ChapterTime: 1:04.515(3795)
