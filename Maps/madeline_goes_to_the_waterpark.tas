@@ -1,194 +1,162 @@
-RecordCount: 1796
+RecordCount: 3556
+
 console load FrogelineProject2021/1-Maps/bryse0n
    1
+
 #Start
   69
+
 #lvl_0_entrance
-  12,R,D,X
-   9,R,J
-   6,R
-   4,R,J
-  14,R,D,X
-   7,R,J
-   5,R
-  10,R
-  15,D,X
-  15,R,C
-  15,R,U,X
-   3,R,J
-   7,U,X
    1,R,J
-  37,R
+   5,L,D,X
    1,R,J
-   1,R,K
-  23,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   3,R,J
-   1,R
-   6,R,D,X
-  40
-#lvl_1_verdantsprings
-   9,R,D,X
-   1,R
-   2,R,J
-   5,R
-  10,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  28,R
-  14,R,X
-  17,R
-  15,R,D,X
-  11,R,D
    7,R
-   6,R,D,X
-   9,R
+  12,R,J
   15,R,D,X
-   1,R,D
-   4,R,J
-   5,R
-   7,R,J
-   5,U,X
-  14,L
-   6,L,U,X
-  16,R
-  15,D,X
-  15,D
-  15,R,D,X
-  15,R,U,Z
-   1,R,U
-  15,R,X
-  10,R,J
-  13,R,D,C
-   2,R,J
-   5,R
+   1,J
+  22,R
+  15,R,Z
+  21,R,D
    1,R,J
-   9,R
+   1,R,K
+  23,R,D
    1,R,J
    1,R,K
    1,R,J
-   4,R,K
-   5,R
    1,R,K
-  13,R,J
-   8,R,U,X
-  86,R,D
-   7,R,U,X
-  27,R,D
-  15,R,D,X
-   7,R,D
-   4,R
-  11,R,D
-  11,R,D,X
+   1,R,J
+   2,R,K
+   8,R,D,X
   40
-#lvl_2_theslide
-   4,R,D,X
-   1,R
+
+#lvl_1_verdantsprings
+   7,R,D,X
    1,R,J
-  18,R
-  11,U,X
-   9,L,J
-   5,L
-  10,L,J
-   5,L
-   1,L,K
+  15,R
+   1,R,J
+   1,R,K
+   1,R,J
+  12,R,X
+  37,R
+  15,R,D,X
+  27,R
+  16,R,D,X
+   5,R,D,J
+  10,R
+  18,U,X
+   9,L,U,C
+  20,R,D
+  27,D,X
+  15,R,D,C
+  10,R,U,Z
+   1,L,J,G
+   2,R
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  29,R,D,X
+   1,R,J
+   1,R,K
+   6,R,J
+  10,R
+   4,R,J
+   9,R,U,Z
+  82,R,D
+   7,R,U,Z
+  21,R
+  44,R,D,X
+  40
+
+#lvl_2_theslide
+   7,R
+   5,R
+   1,L,J
+   3,R
+  22,L,U,X
    1,L,J
    1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-  11,L,U,X
-  34,R,D
+   7,L,J
+   9,L
+  33,R,D
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
   14,R
-  15,R,D,X
-   4,R
-  10,R,J
+   1,R,J
+  19,R,D,X
+   9,R,J
+   9,R
+   4,R,J
+  40,R,D,X
+  15,R,C
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   9,R,J
+  24,R,D,X
+   1,R,J
+  22,R,D,X
+  18,R,D,C
+   1,R,J
+  31,R,D,X
+  15,R,D,C
+  11,R,D
+   7,R,D,J
+  19,R,D,X
+   3,R,D,J
    5,R
-  15,R,J
-  15,R,D,X
-  26,R,J
-  15,R,X
-  15,R,U,C
-   6,R
-  10,R,D,X
-   7,R,J
-   5,R
-   1,R,J
-  15,R,D,X
-  44,R
-  15,R,D,X
-  86,R
-  15,R,D,X
-   4,R,D
-   1,R,J
-  20,R,K
-  13,R
-   1,R,J
-   7,R
-  15,R,D,X
-   7,R
-  15,R
-   1,R,U
-   4,U
-   5
-   1,J
-  15,U,X
-   5
+   3,R,J
+  11,U,X
+   6,R,U
+  17,U
   40
-#lvl_3_skytub
-   7,L,U
-   4,L
+
+#lvl_3_skytube
+   5,L,U
+   6,L
   15,R,U,X
   15,U,C
   24,R,J
   13,R,K
-  15,U,X
-  29,R,J
+  13,U,X
+  31,R,U
   14,L,U,X
-  25,L,J
-  11,R,X
-   4,R
-  15,R,D,X
-  10,R,D
+  21,L,U
+  13,L,Z
+  13,R,J
+  20,R,D,X
+   2,R,D,J
+  15,R
    1,R,J
-   5,R
-   3,R,J
-   8,R
-   1,R,J
-  12,R
+   9,R
   14,R,D,X
-  12,R
-  15,R,D,X
-  20,R,D
-   8,R,J
-   5,R
-   8,R,J
-   5,R
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   2,R,J
-  15,R,D,X
-   2,R
-  15,R,U,X
-  15,D,C
-  17,D
-   5,R,D,X
   10,R
+  18,R,D,X
+   1,R,J
    3,R
-   1,R
-  18,R,D
+  13,R,D,C
+  11,R,J,G
+  14,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   3,R
+  15,R,D,X
+   5,R,U
+  30,D,X
+  33,R,D,C
+   4,R,D
   15,R,X
    1,R,J
    1,R,K
@@ -198,352 +166,257 @@ console load FrogelineProject2021/1-Maps/bryse0n
    1,R,K
    1,R,J
    2,R,K
+   5,R,D,X
   40
+
 #lvl_4_bouncehouse
+   3,R,D,X
+   3,R,J,G
+   5,R,K
    5,R
-   9,R,J
-   7,R
+   7,R,J
+  10,R
    1,R,J
    1,R,K
-   1,R,J
-  14,R
-   8,R,U,X
-   1,L
-   8,L,J
-  15,L,U,X
-   1,L
-  15,R,U,Z
-  15,L,U,X
-   8,R,J
-   5,R
-   8,R,J
-  21,R
+   1,R
    1,R,J
    1,R,K
+  15,R,U,X
+  15,L,U,C
+   6,R,U,X
+  10,R,J
+   9,L,U,X
+  23,R,J
+  11,R
+   6,R,D
    1,R,J
-   4,R
-  15,R,D,X
+   1,R,K
+   5,R,J
+  16,R,D,X
    1,R,J
    1,R
   15,R,D,X
-  18,R
-   5,L
-  16,L,D
-   5,L,D,X
+   9
+  10,D
+  15
+  10,L,D,C
   24,R,D
    6,R,U,X
-  33,R,D
-  15,R,D,X
-  29,R,D
-   6,L,D
-   1,L,J
-   1,L,K
-   1,L,J
-   1,L,K
-   1,L,J
-   9,L,U,X
-   5,R
-  11,R,U,X
-  20,R,D
-  15,R,D,X
-  23,R,D
-   4,R
-   3,R,D
-   3,R,D
-  15,D,X
-  10,D,C
-  40
-#lvl_5_zigzagger
-   5,D,C
-  11,D
-  14,R,D,X
-  12,R,J
-   5,R
-   8,R,J
-  13,R,D,X
-   2,R
-  15,R,D,X
-  15,R,D
-  15,R,D,X
-  17,R,D
-  15,R,D,X
-  13,R
-   1,R,J
-  18,R
-  15,R,D,X
-  15,R,D
-  14,R,U,X
-  43,R
-  13,R,U,X
-  22,L
-  15,L,D,X
-  21,L,D
-  15,L,D,X
-   6,L,D
-   1,L,J
-  14,L
-   3,L,J
-   5,L
-   4,L,J
-  14,L,U,X
-  11,L
-  15,L,D,X
-  10,L,D
-   2,R,D
-  15,R,D,X
-  29,R,D
-   1,R,J
-  14,R
-   9,R
-  35,R,J
-  14,R,U,X
- 144,R,J
-  14,R,U,X
-  40
-#lvl_6_theshaker
-   1,R,U,X
-  10,R,D,X
-  12,R,J
-  13,D
-  20,R,D
-  10,R,Z
-   5,R,J
-  10,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   5,R
-   5,R,D,X
-   2,L
-   1,L,J
-  14,L
-   1,L,J
-   2,L
-   5,L,X
-   2,L
-   7,R
-   1,R,J
-   7,R
-   9,R,U,X
-   7,R
-   6,R,J
-  10,R
-  19,R,D
-  12,R,U,Z
-  10,L
-  14,L,U,X
-   1,R
-   9,R,J
-  11,L,U,X
-   4,R,J
-   9,L,U,X
-  18,R,J
-  21,L,K
-  13,L,U,X
-   3,R,J
-   9,L,U,X
-  34,R
-  10,L,D,X
-  24,R
-   7,L,D,X
-   1,R
-  12,R,J
-   5,L,X
-   1,R
-  10,R,J
-   5,L,U,X
-   1,R
-  10,R,J
-  15,R,U,X
-   9,R
-  10,R,D,X
-   8,R,J
-   4,R
-   1,R,J
-  40
-#lvl_7_wavepool
-  14,R
-   1,R,D,J
-   4,R
-  15,L,D,X
-   2,L
-   1,L,J
-   1,L
-   2,L,J
-   2,L
-  15,R,D,X
-   8,R,J
-  15,R,D,X
-   3,R,D
-  36,R,J
-  15,R,U,X
-   5,R
-   9,L,U,X
-   1,R
-  41,R,D
-  10,R,U,X
-  17,R
-  15,R,U,X
-  14,R
-   6,L,D,X
-   1,L
-  27,L,J
-   6,R,U,X
-   9,L
-  12,U,X
-  32,J
-  10,L,X
-  20,R
-  12,L,D,X
-   3,R,D
-  13,R,D,X
-   2,R,J
-  15,R,D,X
-   5,R,D
-  31,R,J
-  14,R,X
-  23,R
-  10,R,U,X
-   5,R
-  15,R,D,X
-   1,R,D
-   8,R
-  12,R,D,X
-  27,R,D
-   1,R,J
-   6,R,K
-   5,R
-  11,R,K
-   1,R,J
-  12,R,K
-   5,R
-  27,R,K
-  11,R,U,X
-  40,R
-  15,R,D,X
-  10,R,D
-  15,D,X
-   5,R,U
-  15,R,X
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  40
-#lvl_8_thetornado
-   1,R,K
-   1,R,J
-  12,R,K
-   5,R
-  18,R,K
-  15,D,X
-  46
-  14,R,D,X
-   1,R,J
-   9,R
-   5,R,X
-   1,R
-  12,R,J
-  28,R
-  15,R,D,X
-   1,R,D
-  18,R,J
-   4,R
-  11,R,J
-   1,R,K
-   1,R,J
-  19,R,K
-  15,R,D,X
-  15,R,D,C
-  11,R,U,X
-   4,L
-   6,L,U,X
-  17,R,D
-  15,R,D,X
-  23,D
-   8,R,X
-  38,R
-   1,R,D,J
-  14,R
-   4,R,D,J
-   5,R
-   2,R,J
-  12,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-  15,R
-   1,R,J
-   1,R,K
-  13,R
-  10,R,D,X
   21,R,D
   15,R,D,X
-   5,R,D
+   3,R
+  16,R,D
    1,R,J
-   4,R
-   6,R,D,X
+   1,R
+  21,R,D,X
+   1,R,J
+   1,R,K
+   1,L,J
+   1,L,K
+  15,L,U,X
+  24,R,U,C
+  15,R,D,X
+   2,R
+  17,R,D
+   2,R
+   4,R,D
+  15,D,X
+  12,D,C
   40
-#lvl_9_finalride
-   8,R,D,X
+
+#lvl_5_bouncehouse
+  16,D
+   5
+   1,D
+   4,Z
    1,R,J
-  10,R
+   6,R
+   7,R,J
+   5,R
+   8,R
+  15,R,D,X
+  28,R,D,C
+  33,R,D,X
+   1,R,J
+  26,R,D,X
+   3,R,J
+  37,R,D,X
+  47,R,U,C
+  24,R,U,X
+  25,L,D,C
+  10,L
+  18,L,D,X
+   1,L,J
+  14,L
+   6,L,J
+  21,L,U,X
+  26,L,D,C
+  60,R,D,X
+  33,R,J
+  65,R,U,Z
+  15,R,D,X
+  53,R
+  17,R,D
+  40
+
+#lvl_6_zigzagger
+   3,R,D
+   6,R,D,J
+  15,R,U,X
+  27,R,D
+  20,R,D,C
+  23,R,U,X
+  15,L,U,C
+  26,L,U,X
+   8,U,C
+  26,L,J
+  15,L,U,X
+   4,D
+  15,D
+  17,D,X
+  14,R
+  18,R,D
+  16,L,C
+  15,L,U,X
+  24,R,U,C
+   4,Z
+   1,R,J
+   7,R
+   5,R,J
+   7,R,D,X
+  40
+
+#lvl_7_wavepool
+   7,R
+   1,R,J
+   9,R
+  21,L,D,X
+  13,R,D,C
+   9,R,J
+  28,R,D,X
+  31,R,J
+  15,R,U,X
+  36,U,C
+   8,D
+  15,R,U,Z
+  10,R,D
+   4,R
+  15,R,U,Z
+  14,R,D
+  27,L,D,X
+   5
+  15,R,U,X
+  45,U,C
+   9,L,X
+  21,D
+  15,L,D,X
+  14,R,D,C
+   1,R,J
+  22,R,D,X
+  29,R,J
+  40,R,X
+  15,R,U,Z
+  22,R,D,C
+  34,R,D,X
+   5,R
    1,R,J
    1,R,K
    1,R,J
-   1,R
-  15,R,D,X
-   7,R,D
-   6,R,J
-   5,R
-  12,R,J
-   3,R
-  15,R,D,X
-  10,R,D
-  19,R
-  12,R,U,X
-  15,R
-  12,R,U,X
-   3,R
-  15,R,D,X
-  12,R,D
-   1,R,J
-  12,R,D,X
-  15,R
-  15,R,D,X
-  25,R,D
-   1,R,D,J
-   5,R
-   3,R,J
-   8,L
-   1,L,J
-   5,L
-  15,L,D,X
-   8,L,D
-   1,L,J
-   3,L
-  15,L,D,X
-   8,L
-  16,L,D
-   1,R,D
-  15,R,D,X
-   1,R,J
-   8,R,D,X
+   6,R,K
   13,R
    1,R,J
-   7,R,U,X
-   3,R
-  70,R,J
-  30,R,J
-  15,R,D,X
-  46,R,D
-   5,R
+   1,R,K
+   1,R,J
+   5,R,K
+  27,R,D
+  15,R,U,X
+  15,R,D,C
+  16,R
+  25,R,D
+   1,R,J
+   1,R,K
   40
+
+#lvl_8_thetornado
+   2,R,K
+  12,R
+   1,R,J
+  15,D,X
+   1,R,J
+   4,D
+  21,D,X
+   4,Z
+   1,R,J
+  10,R
+  42,R
+  15,R,D,X
+  12,R,J
+   9,R
+   1,R,J
+  11,R
+   1,R,J
+   1,R,K
+   1,R,J
+   8,R,K
+  24,R,D
+   5,R,U
+  16,R,U,Z
+  22,R,D,X
+  14,R,U
+  23,R,U,Z
+StunPause
+   6,R
+EndStunPause
+   3,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+  17,R,D
+   1,R,J
+   6,R,D,X
+   1,J
+  14,R
+   8,R,D,X
+  40
+
+#lvl_9_finalride
+   4,R,D,X
+   1,R,J
+   9,R
+   1,R,J
+   1,R,K
+   1,R,J
+  22,R,D,X
+   1,R,J
+  10,R,K
+  17,R
+  37,R,D,X
+  15,R,U,C
+  11,R,D
+  15,R,U,Z
+  26,R,D,C
+   1,R,J
+  26,R,D,X
+  33,R,D,C
+   4,R
+   3,R,D,J
+   5,R,D
+  12,R,D,X
+   1,L,J
+   2,L
+  34,L,D,X
+   6,L
+  15,L,D,C
+  18,R,D,X
+   1,R
+   8,R,U,C
+  50,R,J
+  75,R,D
+  14,R,D,X
+  40
+
 #lvl_10_heart
-   2,R
-  13,L,X
+   1,R
+  10,L,D,X
  135
-ChapterTime: 1:31.443(5379)
+ChapterTime: 1:17.265(4545)
