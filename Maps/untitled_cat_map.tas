@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 1396
+RecordCount: 1614
 
 console load FrogelineProject2021/1-Maps/cat
    1
@@ -113,30 +113,31 @@ console load FrogelineProject2021/1-Maps/cat
    1,N
  139
    9
-  14,L,D,C
    1,R,J
-   8,R
-   1,R,J
-  10,L,Z
-   1,L,J
-   4,L
-  12,L,D,X
+   7,R
    2,R,J
-   1,R,K,G
-   3,R
+   6,R
+   9,R,Z
+   1,L,J
+   1,L
+   1,L,J
+   6
+  14,L,Z
+   2,R,J
+   1,R,K
+   1,R,J
+   2,R
 
 #lvl_2 (1)
-  14,R,D,X
+   7,R,J
+   3,R
+  15,R,D,X
+   7,R,J
+  17,R
    1,R,J
   14,R,D,X
-   8,R,J
-  11,R
-  14,R,Z
    1,R,J
-   1,R
-  14,R,D,X
-   1,R,J
-  13,R,D,X
+  11,R,D,X
   40
 
 #lvl_8
@@ -145,7 +146,6 @@ console load FrogelineProject2021/1-Maps/cat
    7,R
    7,R,J
   28,R,U,X
- 
    8,R,K
   15,U,X
    1,L
@@ -199,7 +199,6 @@ console load FrogelineProject2021/1-Maps/cat
    1,R,J
   40
 
-
 #lvl_a
    1,R,J
   10,R,G
@@ -226,10 +225,10 @@ console load FrogelineProject2021/1-Maps/cat
   14,R
   22,R,X
    4,L,G
-   1,R
-   1,N
- 154
-  21
+   3,R
+   1,R,N
+   9,R
+ 160
    7,L,J
    1,L
   15,U,Z
@@ -387,31 +386,39 @@ console load FrogelineProject2021/1-Maps/cat
   20,L,J
   52,D,X
   68,R,C
-   1,N
- 154
-  14,L,J
-  14,R,D,C
-   1,R,J
-  15,R,D,X
+   2,R
+   1,R,N
+  11,R
+ 138
+   1,J
+   7
+   2,J
+   6
   10,R,D,C
-   4,L,K
-   2,L,J,G
+   1,R,J
+   1,R
+   1,R,J
+   1,R
+   5
+  12,R,Z
+   2,L,J
+   1,L,K
+   1,L,J
+   2,L
+
 
 #lvl_2 (4)
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-   6,L
-  29,D,X
+  11,L,D,J
+   7,L
+  15,L,D,X
+  25,D
   40
 
-
 #lvl_heart
-  21,L,D
+  21,R,D
 #end
   40,L,D,X
    1,N
   98
 
-ChapterTime: 1:04.515(3795)
+ChapterTime: 1:04.141(3773)
