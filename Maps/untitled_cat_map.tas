@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 1614
+RecordCount: 1681
 
 console load FrogelineProject2021/1-Maps/cat
    1
@@ -245,106 +245,23 @@ console load FrogelineProject2021/1-Maps/cat
    1
    1,L,J
   14,L,D,X
-   1,L,J
-  29,L,D,X
-   5,L,J
-  26,L,D,X
-  40
-
-#lvl_3
-   1,L,D
-   1,L,J
-   6,L
-  14,L,D,X
-  15,L,J
-  24,L,X
-   9,R,G
-  18,R,D,X
-   4,R,J
-   1,R,K
-  16,R
-  30,R,X
-  15,D,C
-   4,R,D
-   8,D
-  16,L,D
-  10,R,D
-   3,D
-  10,R,U,X
-   4,L,G
-   4,D
-  29,D,X
-   2,R,D
-  13,R,D,C
-   1,R,J
-   1,R
-  11,R,D,X
-  40
-
-#lvl_4
-   3,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  24,R,D,X
-   4,R,J
-   8,R,G
-   1,L,J
-   8,L,K
-  21,L,C
-  18,R,Z
-   4,R,J
-   3,R,K
-  15,R,D,X
-   3,R
-  10,R,J
-   2,R
-  10,R,D,X
-   1,R,J,G
-  16,R
-   2,R,J
-   1,R
-   5
-   1,R
-  14,R,U,Z
-   1,K
-   4,L,K
-   7,L
-   4,L,Z
-   5,L,J
-  10,L
-   1,N
- 143
-   8,L,Z
-   1,R,J
-   7
-   2,R
-  14,R,Z
    1,R,J
   15,R,D,X
-   1,D
-   2,R
-  10,R,D,X
+   7,D
+  20,R,D
+   4,D,X
    1,R,J
-
-#lvl_2 (3)
-  13,R,K,G
-  15,R,D,X
-   3,R,J
-   8,R,D,X
-   2,R,J,G
-  12,R
-   1,R,J
-  11,R
+   1,R
   40
 
 #lvl_6
+   5,R
+   1,R,J
    3,R
-  19,R,D,C
+  19,R,C
    4,R,J
-   4,R,K
-   1,R
-  16,R,D,X
+   3,R,K
+  17,R,D,X
    1,R,J
   20,D,X
   21,R,U,C
@@ -406,19 +323,105 @@ console load FrogelineProject2021/1-Maps/cat
    1,L,J
    2,L
 
+#lvl_2 (3)
+  13,L,D,J
+  15,L,D,X
+   2,L,J
+   3,L
+   8,L,D,X
+   1,L,K,G
+  12,L
+   8,L,J
+   5,L
+  40
+
+#lvl_3
+   2,L,J
+  15,L,D,X
+   9,L,J
+  18,L,X
+   8,R,G
+   1,R,K,G
+
+  18,R,D,X
+   4,R,J
+   1,R,K
+  16,R
+  30,R,X
+  15,D,C
+   4,R,D
+   8,D
+  16,L,D
+  10,R,D
+   2,D
+  10,R,U,X
+   4,L,G
+   4,D
+  29,D,X
+   2,R,D
+  13,R,D,C
+   1,R,J
+   1,R
+  11,R,D,X
+  40
+
+#lvl_4
+   3,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  24,R,D,X
+   4,R,J
+   8,R,G
+   1,L,J
+   8,L,K
+  21,L,C
+  18,R,Z
+   4,R,J
+   3,R,K
+  15,R,D,X
+   3,R
+  10,R,J
+   2,R
+  10,R,D,X
+   1,R,J,G
+  16,R
+   2,R,J
+   1,R
+   5
+   1,R
+  14,R,U,Z
+   1,K
+   4,L,K
+   7,L
+   4,L,Z
+   5,L,J
+  10,L
+   1,N
+ 143
+   8,L,Z
+   1,R,J
+   7
+   2,R
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   1,D
+   2,R
+  10,R,D,X
+   1,R,J
 
 #lvl_2 (4)
-  11,L,D,J
-   7,L
-  15,L,D,X
-  25,D
+  17,R,K,G
+  15,R,D,X
+  24,D
   40
 
 #lvl_heart
-  21,R,D
+  21,L,D
 #end
   40,L,D,X
    1,N
   98
 
-ChapterTime: 1:04.141(3773)
+ChapterTime: 1:03.716(3748)
