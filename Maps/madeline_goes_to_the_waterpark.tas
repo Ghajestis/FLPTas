@@ -1,4 +1,4 @@
-RecordCount: 3556
+RecordCount: 3561
 
 console load FrogelineProject2021/1-Maps/bryse0n
    1
@@ -410,13 +410,13 @@ EndStunPause
   18,R,D,X
    1,R
    8,R,U,C
-  50,R,J
-  75,R,D
-  14,R,D,X
+  44,R,J
+  15,R,D,X
+  80,R,D
   40
 
 #lvl_10_heart
    1,R
-  10,L,D,X
+   8,L,X
  135
-ChapterTime: 1:17.265(4545)
+ChapterTime: 1:17.231(4543)
