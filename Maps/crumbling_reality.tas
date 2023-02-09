@@ -1,8 +1,8 @@
 console, load, FrogelineProject2021/1-Maps/Crumbling reality
    1
+ 190
 
 #lvl_Exp Scribbles-01
- 190
    4,R,Z
   13,R,J
   36,R
@@ -43,15 +43,16 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
   13,U,X
   18,L,J
   32,L,X
-  16,L,D
-  14,L,D,X
+  14,L,D
+   5,D
+  10,L,D,X
    1,R,J
    7,R
   10,R,J
    1,R
-  14,R,J
+  12,R,J
   15,R,X
-  12,L
+  13,L
    7,R
   14,R,U,X
   55,R
@@ -77,34 +78,34 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
    1,R,J
   14,R,D,X
    1,R,J
-   1,R
+   2,R
   40
+
 
 #lvl_Exp Scribbles-03
    3
-   6,R
+   5,R
    1,R,J
    6,R
   14,R,D,X
   17,R,D
-  60
-   5,R,D,X
-   1,R,J
-   7
-  37,R,J
-  27,R,Z
+  61
+   1,G
+  14,R,Z
+  28,R,J
+  33,R,Z
   59
   13,U,X
   22,L,J
-   1,R
-  16,L,J
+   2,L
+  15,L,J
   26,G
-   1,L,J,G
+   1,J,G
    1,L,K,G
    1,L,J,G
-   6,R,J
+   4,R,J
   30,R,D,X
-   8,R
+   7,R
    1,R,J
    3
    1,R,J
@@ -162,25 +163,26 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
   14,L
    7,L,J
   15,L
-  35,G
-   1,L,J,G
+  36,U,G
+   1,J,G
    1,L,K,G
    1,L,J,G
-   9,R,J
-  33,R,D,X
-  35,R,J
-  10,R,D
+   5,R,J
+  32,R,D,X
+   8,R
+   1,R,D
+   3,R
+   3,R,J,G
+   7,R
   40
 
 #lvl_Exp Scribbles-05
    3
-  15,R,X
-
-   4,R,Z
-   1,R,J
-  10,R
-  21,L
-   9,L,D
+   1,R
+  18,R,D,X
+  15,L
+   5,L,D
+   4,D
   15,L,Z
    6,R
    1,L,J
@@ -191,10 +193,10 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
   10,R,D,C
    1,R,J
    7,R
-  30,R,J
+  28,R,J
   32,R,D,X
-  29,G
-  13,L,J
+  22,U,G
+  19,L,J
   12,R,U,X
    2,R,J,G
    3,R
@@ -214,9 +216,8 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
   12,L,K,G
    3
   15,U,X
-   6,L,U,C
-   9
-  18,R,U,X
+   7,L
+  18,U,X
   10,R,D,C
   24,R,J
   38,R,U,X
@@ -232,7 +233,7 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
    6,K,G
   40
    
-#lvl_Exp Scribbles-05
+#lvl_Exp Scribbles-06
    3
    3,L
    8
@@ -275,20 +276,20 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
    6,G
   17,U,G
    8,G
+   1,J,G
+   1,K,G
    1,L,J,G
-   1,L,K,G
-   1,L,J,G
-   5,R
+   6,R
    3
    3,R
   16,R,D,X
   15,R,Z
-  14,L
-  19,L,D
-  63,R
-  36,R,U,X
-  26,R,Z
-  17,U,X
+  30,D
+  64,R
+  33,R,U,X
+  21,R,Z
+   3
+  16,U,X
   15,R,C
   22,R,D
    3
@@ -315,6 +316,8 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
   34
   18,U,X
   15,U,C
+
+#lvl_Exp Scribbles-07
    3
   33,R,D,X
    1,R,J
@@ -330,5 +333,6 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
    1,L,J
   16,L
    1,L,J
+
   98,L,D,X
-#1:07.813(3989)
+#1:06.725(3925)
