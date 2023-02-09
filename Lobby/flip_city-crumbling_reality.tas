@@ -1,0 +1,34 @@
+# The Frogeline Project
+# https://gamebanana.com/mods/425041
+
+RecordCount: 14
+
+console load FrogelineProject2021/0-Lobbies/1-Maps 3104 -88
+   1
+
+#Start
+  36
+   4,Z
+   1,L,J
+  12,L
+   1,L,J
+  14,L,D,X
+   7,L,J
+   8,L,D,X
+   1,L,J,G
+  12,L
+   9,L,J
+   1,L
+  17,L,D,X
+   2,L,J
+  15,L,D,X
+  16,L,D
+  18,D
+  10,R,Z
+  10,L,J
+  12,L,D,X
+   1,L,J
+   7,L
+   1,N
+#0:02.686(158)
+#End
