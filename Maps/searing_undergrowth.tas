@@ -1,3 +1,8 @@
+# The Frogeline Project
+# https://gamebanana.com/mods/425041
+
+RecordCount: 317
+
 console load FrogelineProject2021/1-Maps/38-celeste-FrogjectExp
    1
 
@@ -11,46 +16,51 @@ console load FrogelineProject2021/1-Maps/38-celeste-FrogjectExp
    3,R,J
   18,R,D,X
   50,R,J
-   2,K,G
+   1,R,K,G
+   1,K
+   3,L,K
    1,L
-  10,R,J,G
-   4,R
+   1,R
+   1,J,G
+   6,R,J
    1,R,K,G
    1,R,J,G
-  13,R
-repeat 3
+  10,R
+repeat 4
    1,R,J
   14,R
 endrepeat
-   1,R,J
-  17,R
-   1,R,J
-  18,R
+  21,R
   40
 
 #lvl_celeste-hot1
-  17,R,Z
+  15,R,Z
    1,R,J
    7,R
-  32,R,J
-  21,R,U,X
-   4,R,J
+  22,R,J
+  17,R,U,X
+   5,R,J
    5,R,Z
    9,R,J
-   5,R
-   2,R,J
+   4,R
+   1
+   3,R,J
   11,R
    1,R,K,G
-  13,R
-   8,R,J
-   9,R
-  11,U,X
+  14,R
+   1,R,D
+  10,R,D,J
+   5,R
+   5,R,J
+  10,U,X
   25,R,J
-   7,K,G
-   2,L,J
-  19,U,X
+   8,K,G
+   2,L,K
+  18,U,X
    4,L,J
-  24,L
+   9,L
+   2,L,J
+  14,L
   14,L,Z
    1,L,J
    6,L
@@ -90,50 +100,47 @@ endrepeat
    1,R,J
   17,R
   33,R,J
-  25,R,G
+  25,G
   13,R,J
-  31,R,X
-  30,R,C
+  15,R,X
+  16,R
+  18,R,X
+  12,R
   15,R,X
   23,R
-  19,L,J
-  41,L,J,G
-  36,L,G
-  15,L,K,G
-   6,L
-  35,D
-   3
-  50,R,G
-  21,D
-  19,L,G
-  10,K,G
-   2,L
-   1,R
-   4
-  19,R,Z
-  30,R,X
-  12,L,D
-   4,D
-  12,R,J
-  70,R
-   2,R,J
-  20,R
-   9,R,K
-   1,J,G
-   1,L,J
-  17,R,J
-   1,R,K,G
-   2,L,K
-   1,K
-   2,L,K
+  60,L,J
+  36,G
+   9,L,J,G
+  15,L
+  18,D
+   7,R,D
+   5
+  24,G
+  22,R
+   9,L
+  17,G
+  25,R,J
+  15,R,X
+  16,R
    1
-   1,R,J,G
+  16,D
+  12,R,J
+  25,R
+  34,R,D
+   1,R,J
+  18,R
+  14,R,J
+  10,J
+  12,K,G
+   5,J,G
+   3,R,J
    1,R,K,G
-  14,R
+   1,R,J,G
+  10,R
    1,R,J
   14,R
-   4,R,J
-  14,R
+   1,R,J
+  22,R
   40
 
 #lvl_celeste-hot2
@@ -150,16 +157,15 @@ endrepeat
    7,R,Z
   25,R,J
   18,U,X
-   2,J
+   3,J
   16,L,J
-  16,U,X
-  11,R,J
-  
-  25,L,U,C
-  28,U,X
-  18,D
+  14,U,X
+  12,L,J
+  24,L,U,X
+  15,U,C
+  31,D
   18,L,D
-   7,R,D
+   7,D
    4,R,Z
    5,R,J
    8,R
@@ -172,19 +178,22 @@ endrepeat
    4,R,J
   20,R,D,X
   44,R,J
-  22,R,G
-   2,K,G
-   1,J,G
+  22,G
+   2,J,G
+   1,L,J
    1,K
-   2,L,K
-  11,R,K
-   6,L,K
-  22,L,J
-  22,R,K
-  12,L,J
-  31,L,U,X
-   4,L,J
-   7,L,Z
+   1,L,K
+   1,K
+   1,L,K
+  13,R,K
+  12,J,G
+  14,K,G
+   1,L,J
+   1,L,K
+  15,L,J
+  29,L,U,X
+   7,L,J
+   4,L,Z
   35,L,J
   28,U,X
   18,R,C
@@ -195,21 +204,23 @@ endrepeat
    1,R,J
   13,R
   14,R,Z
-  19,R,J
-  38,R,D
+  16,R,J
+  16,R
+  18,R,D
    7,D
+  20,R,D
+  11
+  14,R
    7,R,D
-   2,D
-   3,R,D
-  36,R
-  24,R,Z
- 116,G
+  15,R,X
+  17,R
+ 122,G
    8,K,G
   12,J
-  40
+  43
 
 #lvl_celeste-hot3
-  14,R
+  11,R
    6,R,Z
    8,R,J
    4,R,K,G
@@ -282,8 +293,8 @@ endrepeat
    1
    1,R,J
   12,R
-  13,D,X
-   8,L
+  16,D,X
+   5,L
   23,L,C
   17,D,X
    1,L
@@ -402,4 +413,4 @@ endrepeat
   15
  123,U,Z
 
-ChapterTime: 1:18.200(4600)
+ChapterTime: 1:17.384(4552)
