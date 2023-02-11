@@ -12,8 +12,7 @@ console, load, FrogelineProject2021/1-Maps/Pastel Dreams
    9,R,C
    9,R,X
    9,R,C
-   9,R,D,X
-   9,R,U,C
+  13,R,Z
    9,R,U,X
    9,R,U,C
   15,R
@@ -402,4 +401,4 @@ endrepeat
  135,D
 
 #End
-ChapterTime: 1:27.652(5156)
+ChapterTime: 1:27.618(5154)
