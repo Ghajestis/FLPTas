@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 1689
+RecordCount: 1735
 
 console load FrogelineProject2021/1-Maps/YoshFrogeline
    1
@@ -10,7 +10,7 @@ console load FrogelineProject2021/1-Maps/YoshFrogeline
  190
 
 #lvl_a01new
-  10,L,X
+   5,R
   13,R,J
   15,U,X
    4,J,G
@@ -103,22 +103,28 @@ console load FrogelineProject2021/1-Maps/YoshFrogeline
   18,R,D
   12,D
   10,R,D
-   4,R,Z
-   4,R,J
-   3,R,K,G
+   4,Z
+   3,R,J
    1,R
-   1,R,J,G
-  15,R,D
-   2,R
+   3,R,K,G
+   1,R,K
+   1,J,G
+   4,D
+  11,R,D
   40
 
 #lvl_a03new
-   1,R
+#   1,R
+#   3,R,J
+#  10,R,Z
+#   5,R,J
+#  18,R,X  
    1,R,N
    3,R,J
-  10,R,Z
+  11,R,Z
    5,R,J
-  18,R,X
+  19,R,X
+
    4,R,J
   14,R,K
   17,R,D,X
@@ -360,7 +366,7 @@ EndStunPause
   12,R,J
   15,R,D,X
   14,R,J
-  27,R,U,X
- 122,R,D
+  14,R,U,X
+ 135,R,D
 
-ChapterTime: 0:50.898(2994)
+ChapterTime: 0:50.847(2991)
