@@ -1,41 +1,42 @@
 console, load, FrogelineProject2021/1-Maps/Crumbling reality
    1
+
+#Start
  190
 
 #lvl_Exp Scribbles-01
    4,R,Z
   13,R,J
-  36,R
+  34,R
   16,R,D,X
-  27,R,J
+  28,R,J
    1,R,K
    7,R,D,X
    1,S
    1,D,J
   34
-   3,R,D,X
-   5,R,J
-   1,R
-  21,R,J
-  14,R,D,X
-   1,R,J,G
-  16,R
+   3,R
+   4,R,J
+   4,R
+  20,R,D,X
    2,R,J
-  17,R,D,X
-  12,R,J
-  13,U,X
-  11,R
-  28,R,X
-   6,R,Z
+   8,R
+   3,R,J
+   9,R
+   7,R,J
+   6,R
+  15,R,U,X
+  18,R
+  14,R,D,X
    1,R,J
    7,R
    1,R,J
-   8,R,D,X
+  12,R,D,X
   40
 
 #lvl_Exp Scribbles-02
    3
-   2,R,D,X
+   2,R
    1,S
    1,D,J
   34
@@ -43,34 +44,33 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
   13,U,X
   18,L,J
   32,L,X
-  14,L,D
-   5,D
-  10,L,D,X
-   1,R,J
-   7,R
-  10,R,J
-   1,R
+   9,L,D
+   7,D
+   1,L,D
+   1,D
+   1,L,D
+  10,R,D,X
   12,R,J
-  15,R,X
-  13,L
-   7,R
+   6,R
+   8,R,J
+  25,R,Z
   14,R,U,X
-  55,R
-  26,R,D,X
-   3
-   4,R,D
+  52,R
+  10,R,D,X
+  26,R
   29,R,U,Z
-  18,R,X
-   8,R,J,G
-   1,R
-  29,R,J
-   2,R,D
-   4,D
-   5,L,Z
+  17,R,X
+   6,R,J,G
+   5,R
+  20,R,J
+   7,R,D
+   1
+   2,D
+   4,R,Z
    1,R,J
-   7,R
+   9,R
    1,R,J
-  21,R,D,X
+  19,R,D,X
   31,R,J
   13,R,U,X
    1,R,J,G
@@ -78,38 +78,33 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
    1,R,J
   14,R,D,X
    1,R,J
-   2,R
+   6,R,D,X
   40
-
 
 #lvl_Exp Scribbles-03
    3
-   5,R
+   8,R
    1,R,J
-   6,R
-  14,R,D,X
-  17,R,D
+   2,R
+  29,R,D,X
   61
    1,G
   14,R,Z
   28,R,J
   33,R,Z
   59
-  13,U,X
-  22,L,J
-   2,L
-  15,L,J
-  26,G
-   1,J,G
-   1,L,K,G
+   7,U,X
+  36,L,J
+  16,K,G
+  12
+   2,K,G
    1,L,J,G
-   4,R,J
-  30,R,D,X
-   7,R
-   1,R,J
-   3
-   1,R,J
-  45,G
+   1,K,G
+  14,R,D,X
+  16,R
+   7,R,D
+   6,R
+  45,U,G
    1,L,J
   11,R,J
   15,R,U,X
@@ -132,207 +127,166 @@ console, load, FrogelineProject2021/1-Maps/Crumbling reality
    1
    1,R
   18,R,Z
-  15,R
-  10,R,U,X
-  31
-  16,R,D,X
-  31,R,J
-  15,D,X
-  11,R,Z
+  10,R
+  14,R,U,X
+  32
+  15,R,D,X
+  33,R,J
+  14,L,D,X
    1,L,J
-   7,L
-   1,L,J
-  17,L,D,X
-   3,L,J
+  16,L,D,X
+   7,L,J
+   3,L
+  15,L,U,Z
+   1,R,K,G
+   3,R,K
+  15,U,X
+  13,R
+  11,U,X
+  28,L
+  20,L,Z
+   6,J,G
+   1,R,J
+  13,L,K,G
+   1
    1,L
-   4,L,J
-  18,L,U,X
-  15,L,U,C
-   9,R,U,X
-  12,R
-  13,U,X
-  36,L
-  12,L,D
-  17,L,Z
-  12,J,G
-   7,R,K
-  21,U,X
-   1,L,J,G
-  38,L,K,G
-   1,J
-  14,L
+  12,L,J,G
+  37,L
    7,L,J
   15,L
-  36,U,G
+  29,U,G
    1,J,G
    1,L,K,G
    1,L,J,G
-   5,R,J
-  32,R,D,X
-   8,R
-   1,R,D
-   3,R
-   3,R,J,G
-   7,R
+   4,R,J
+  35,R,D,X
+  10,R,J
+  14,R
   40
 
 #lvl_Exp Scribbles-05
    3
-   1,R
-  18,R,D,X
-  15,L
-   5,L,D
-   4,D
+  14,D
+   1,N
+  21,L,D
   15,L,Z
-   6,R
-   1,L,J
-   8,L,X
-   8,L
-   3
-  15,U,X
-  10,R,D,C
-   1,R,J
-   7,R
-  28,R,J
-  32,R,D,X
-  22,U,G
-  19,L,J
-  12,R,U,X
-   2,R,J,G
-   3,R
-  11,R,J
-  30
-   4,L
-  14,G
-   6,D,G
-  19,R,J
-  11,L,U,X
-   1,L,J,G
-   6,L
-   8,R
-  25,L
-  12,U,X
-  45,L,J
-  12,L,K,G
-   3
-  15,U,X
+   6
+   4,L,Z
+   8,L,J
    7,L
-  18,U,X
-  10,R,D,C
-  24,R,J
-  38,R,U,X
- 186
+  15,U,X
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   5,R,J
+  15,R,D,X
+  18,R
+  21,U,G
+  23,L,J
+  12,U,X
+  18,L
+   1,L,G
+   1,K
+   6,L
+   1,R
+   1
+  10,L,D,X
+   1,R,D,J
+   3,R
+   5,L,K,G
+  15,U,X
+   1,L,K,G
+   2,R,K
+   1,K
+   1,R,K
+   2,L,K
+   1,L,J,G
+   2,L,K,G
+   5,L
+   1,L,J
+  36,L
+  11,U,X
+  40,L,J
+   2
+   2,L
+  14,L,K,G
+  15,U,X
+   4,L
+  19,U,X
+  14,R,D,C
+  28,R,J
+  16,R,X
+ 186,U,G
   14,R,Z
    1,L,J
    7,L
-  23,L,J
-  31,L,U,X
-   1,R,J
-  14,U,X
-  19,R,J
+  25,L,J
+  29,L,U,X
+  15,U,C
+  18,R,J
    6,K,G
   40
    
 #lvl_Exp Scribbles-06
    3
-   3,L
-   8
-  10,R,D,C
-   6,R,J
-   5,R,D,X
-   1,R,J,G
-  11,R
-   3,R,J
-   1,R
-   6,R,J
+   1,R,K,G
+  10,R
+   6,R,Z
+   5,R,J
+   1,R,K,G
+  13,R
+   8,R,J
   14,R,D,X
-  18,R,J
+  22,R,J
   13,U,X
-  11,L
+  12,L
   33,L,D,X
   15,L,J
   16,U,X
   22,R,J
-  12,R,X
-  34,R,J
+  13,R,X
+  32,R,J
   31
   30,R,D,X
-   4,R
-   4,L
-  17,L,D,X
-   3,L,J
-  21,L,U,X
-  36,G
-  14,J
+   3,R,D
+   3,L
+  18,L,D,X
+   2,L,J
+  24,L,U,X
+  30,U,G
+  16,J
   49,R
   20,R,D,X
-  20,D,C
+  16,D,C
    2,R
-   5
-  13,D
-  37,L,G
-   4,J
-  25,U,X
-   6,G
-  17,U,G
-   8,G
-   1,J,G
+   1,L
+  21,D
+  38,L,G
+   8,J
+  16
+   6,L,G
+  20,U,G
+   5,G
+   1
+   1,J
    1,K,G
-   1,L,J,G
-   6,R
-   3
-   3,R
-  16,R,D,X
-  15,R,Z
-  30,D
-  64,R
-  33,R,U,X
-  21,R,Z
-   3
-  16,U,X
-  15,R,C
-  22,R,D
-   3
-  19,R,Z
-   1,D,X
-  10,R,X
-   4,R,J
-  23,R,D,X
-   5,R,J
-   6,R,D,X
-   4,R,J,G
-   4,R
-   1,R,J,G
-  14,R
-   2,R,J
-   7,R,D,X
-   2,R,J,G
-  36,R,K,G
-   1,R,J
-   2,R,K,G
-   6,R
+   1,J,G
+   6,R,X
+   1,L,K,G
+  42,R,J
+  14,R,D
+   1,D
+   2
+   1,D
+  17,R,U,C
+
+#lvl_Exp Scribbles-07
+   6
    1,S
    1,D,J
   34
-  18,U,X
-  15,U,C
+  14,R,D,X
+  15,L,D
+ 139,D,C
 
-#lvl_Exp Scribbles-07
-   3
-  33,R,D,X
-   1,R,J
-  13,R,D,X
-   1,R,J
-   7,R
-  30,R,J
-   1
-  25,R,X
-   6,R,D,C
-  12
-   9,R,D
-   1,L,J
-  16,L
-   1,L,J
-
-  98,L,D,X
-#1:06.725(3925)
+ChapterTime: 0:57.256(3368)
