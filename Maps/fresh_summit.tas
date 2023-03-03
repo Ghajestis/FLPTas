@@ -97,57 +97,56 @@ endstunpause
   15,R,X
   20,R,C
   14,R,D,X
-   4,R,J
-   3,R,K,G
+   4,R,K,G
+   3,R,J,G
   14,R,D,X
    1,R,J
-   3,R
+   7,R,D,X
   40
 
-#lvl_6-b(0)
-  16,R,D
-  10,L,D,X
-   5,R,J
-   5,R,D,X
-  16,R
+#lvl_6-b
+   7,R,D
    1,R,J
-   4,R
-   5,R,J
-  12,R
-   5,R,Z
-  20,R,D
-  12,R,J
+  26,R,D,X
+   4,R,J
+  19,R,D
    2,R
-  13,R,J
-   5,R
-   8
   15,R,Z
-  19,L
-  27,R
-  35,R,U,X
-  15,R,C
-  10,R,D
+   8
+   3,R
+  35,R,J
+   5,J
+  15,R,Z
+  13,D
    4,L,D
-   3,D
-   1,R,D
+   2,D
+  25,R
+  37,R,U,X
+  15,R,C
+   2,D
+  13,R,D
    9,D
   14,R,D,X
    1,R,J
   16,R,D,X
-   8,R,J
-   9,J
-  15,U,X
-
-#lvl_oot
-  14,L,D,C
-   3,L,J
+   9,R,J
+   8,J
+  13,U,X
+   2,L
+   7,L,D,X
+   1,L,J
+   6,L,D
   40
 
-#lvl_6-b(1)
-  20,L,D,X
+#lvl_6-b
+   3,L
+   8,L,D,X
+   1,R,D
+   9,J,G
+   1,L,J
+   7,R,K
+  16,U,X
+ 135
 
-#lvl_heart
-   8,R,J
- 150,U,X
+ChapterTime: 0:30.838(1814)
 
-ChapterTime: 0:31.076(1828)
