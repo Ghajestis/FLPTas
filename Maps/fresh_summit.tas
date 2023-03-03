@@ -76,10 +76,10 @@ console load FrogelineProject2021/1-Maps/barrel
   24,D
 stunpause
    6,L,D
-  11,D
+   9,D
   17,L,D
 endstunpause
-  17,D
+  19,D
   40
 
 
@@ -150,4 +150,4 @@ endstunpause
    8,R,J
  150,U,X
 
-ChapterTime: 0:31.263(1839)
+ChapterTime: 0:31.076(1828)
