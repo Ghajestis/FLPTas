@@ -4,11 +4,12 @@
 RecordCount: 908
 
 console load FrogelineProject2021/1-Maps/Ghajestis
-.
-
- 191
+   1
 
 #Start
+ 190
+
+#lvl_ghaj-intro
    7,R,J
   14,R,X
   18,R,J
