@@ -1,14 +1,15 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 438
-
+RecordCount: 445
+console wipedebug
 console hearts 31
 console load FrogelineProject2021/0-Lobbies/1-Maps
    1
- 190
+ 154
 
 #Start
+  36
    1,Q
    1,J
   31
