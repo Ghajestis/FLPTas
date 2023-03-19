@@ -9,33 +9,45 @@ console load FrogelineProject2021/0-Lobbies/1-Maps 912 1064
    3,R,J
    3,R,K,G
    1,R
-   2,R,J,G
+   1,R,J,G
+   1,R,K,G
   11,R
-   6,R,D,X
-   1,R,J
-   6,R
-   9,R,J
+  17,R,J
   15,U,X
-  18,R,J
-  12,L,K
-  12,R,J
-  12,R,K
-  12,R,J
+  10,L,J
+   6,J
+   3,L,J
    1,K
-   7,L,K
-   1,J,G
+   5,L,K
+   1,J
+   5,R,J
    1,K
-  12,L,J,G
-   8,L
+   5,L,K
+   1,J
+   5,R,J
+   1,K
+   5,L,K
+   1,J
+   5,R,J
+   1,K
+   5,L,K
+   1,J
+   5,R,J
+   7,K,G
+   1,J
+   1,K
+   5,L,K
+   1,L,J,G
+   1,L,K,G
+  10,L
    4,L,Z
-   1,L,J
+   1,J
    7,L
    3,L,J
   14,L,D,X
    4,L,J
-  10,L,Z
-   1,L,J
-   7,L
+   1,L,K,G
+  11,L
    1,N
-#0:03.264(192)
+#0:03.128(184)
 #End
