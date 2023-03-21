@@ -375,19 +375,17 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
    1,D
    3
    6,L,X
-  29,L,G
-   3
-   1,L
-  22,D,X
-  10,L,Z
-   9,L,J
-  21,L,J,G
-  18,L,J
+  28,L,G
+   4,R,G
+  14,L,D,X,G
+  24,L,J,G
+   9,L
    2,G
   34,U,G
   15,G
-  18,R,J
-  24,R,U,X
+   1,R,J
+  17,R,K
+  22,R,U,X
   10,R,D,C
   25,L,J
    4,L,X
@@ -399,20 +397,19 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
    4,R,U,X
   29,R,U,G
    3
-   2,R
+   3,R
   14,R,D,X
    1,R,J
    9,R,U,X
   27,R,U,G
-   9,L,G
-   5,R,G
-   3,R,J,G
-   4,R,G
-   2,R
-   5,R,U,X
-   1,R,J,G
-  26,R,K,G
-   1,R
+  13,D,G
+   6,R,J,G
+   6,R,G
+   1,D
+   6,L,X
+  23,R,J,G
+   9,R,G
+   1,D
   14,R,Z
    1,L,J
   13,L,Z
@@ -433,4 +430,4 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
   17,R,G
    1
  144,L,U,X
-ChapterTime: 1:13.610(4330)
+ChapterTime: 1:13.219(4307)
