@@ -8,27 +8,28 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
    4,R,J
    1,R,J,G
   12,R,J,G
-   3,R,J
-   7,R
-   3,R,J
-   4,R
-   4,R,X
-  37,R,G
+   3,R,J,G
+   6,R,G
+   3,R,J,G
+   1,R,G
+   5,R
+   1,J
+   1,L,J
+   5,R,X
+  34,R,G
    1,R,J,G
    3
-   1,R,K,G
-  14,R,G
-   6,R
-  12,R,D,X
-   1,R,J
+   1,R,J,G
+  15,R,D,G
+   4,R
+  14,R,D,X
   40
-
 #lvl_a-1
-   2,R,J
-   9,R,D,X
+   1,R,J
+  10,R,D,X
   15,R,G
   11,R,J,G
-  10,R,G
+   8,R,G
    1,R
   11,U,X
   30,L,J
@@ -51,20 +52,20 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
    3
    3,R,K,G
    4,R,G
-  15,R,G
-   1,R
-   8,R,J
-  14,R,D,X
-  10,R,J
+  20,R,G
+   1,R,J,G
+   6,R
+  13,R,D,X
+   5,R,J
   40
 
 #lvl_a-2
-   8,R,G
-  10,R,D,X
-   2,R,J
-   3,R
-  17,R,D,X
-  16,R,J
+   7,R,J
+  14,R,D,X
+   1,R,J
+  16,R,D,X
+  10,R,J
+   5,R
   14,U,X
   22,L,J
    4,L
@@ -76,8 +77,7 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
    3
    3,L,J
   26,U,X
-  35,R
-  16,R,D
+  50,R,D
    4,R,Z
   30,R,G
    1,R,J,G
@@ -104,19 +104,22 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
   22,D,C
   15,L,D,X
    8,R,D
-  18,R
-   5
+  19,R
+   3
   14,L,Z
    1,R,J
-   8,R,D,X
+   9,R,D,X
    1,R,J,G
    1,R,K,G
    1,R,J,G
-   7,R
-   2,R,J
+   2,R,K,G
+   4
+   1,R
+   3
+   1,R,J
   17,R,D,X
   15,R,J
-   4,R,J
+   5,R,J
   17,R,D,X
   14,R,D,C
    1,L,J
@@ -209,28 +212,29 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
    4,R,U,X
   60,R,U,G
    1,D
-  14,R,Z
-   1,L,J
-  13,L,Z
-   2,R,J
-   5,R,D,X
-  18,R,G
-   3,G
-   7,R
+   6,L,Z
+   1,R,J
+  21,R,G
+   2,R,J,G
+   1,R
+   8,R,D,X
+   1,R,J
   40
 #lvl_a-4
-  14,R,Z
-   2,R,J
-   7,R,D,X
+   3,R
+   4
+   1,R,J
+   1,R
+   9,R,D,X
   17,R,G
-  21,R,J,G
+  23,R,J,G
    7,R
- 101,G
+ 100,G
    9,U,G
   16,L,J
   15,L,X
-  28,R,D
-  17,R,Z
+  27,R,D
+  18,R,Z
    1,R,J
    3
    2,R,J
@@ -293,7 +297,6 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
 
 #lvl_a-5
   10,R,G
- 
    1,D
    6,L
    4,R,X
@@ -371,8 +374,8 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
   21,U,G
    1,D
    3
-   4,L,X
-  31,L,G
+   6,L,X
+  29,L,G
    3
    1,L
   22,D,X
@@ -430,4 +433,4 @@ console, load, FrogelineProject2021/1-Maps/Theo Nightmare
   17,R,G
    1
  144,L,U,X
-ChapterTime: 1:14.052(4356)
+ChapterTime: 1:13.610(4330)
