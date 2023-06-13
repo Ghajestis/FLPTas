@@ -1,0 +1,319 @@
+RecordCount: 1088
+
+console load FrogelineProject2021/1-Maps/Flamecrafter113
+   1
+
+Set,BounceHelper.JellyfishDash,H
+
+#Start
+ 106
+
+# Spinner cycle
+   0
+
+#lvl_a-01
+   1,R,J
+  16,R
+  10,R,J
+  18,R,J,G
+  11,R,G
+   1,R,U
+  19,R
+  16,R,J
+  11,R,J,G
+   1,D,J
+   9,R,J
+   5,R,J,G
+   3,J
+   6,L,J,G
+   5,R,J,G
+   1,R,D
+  29,R
+   1,R,J
+  12,R
+  40
+
+#lvl_a-02
+   2,R,PH
+   1,L
+   7,R,J
+   5,R
+   1,R,J
+  52,R
+  19,R,U,X
+  11,G
+   1,D
+   6
+  11,U,PH
+   1,G
+  11,R
+   1,J
+  40
+
+#lvl_a-03
+   6,L,J
+  10,L
+   2,L,J
+   8,L
+   1,L,J
+   8,L
+   6,D,X
+   1,R,J
+   3,L,J
+  15,R,J
+  27,R,J,G
+   1,D
+   5
+   3,U,PH
+   9
+   7,R,G
+  23,J,G
+   1,L
+   8,R
+  14,R,X
+  28,L,J
+  14,U,X
+  33,L,G
+  50,R,G
+   1,D
+   5
+  15,D,PH
+  21,L,G
+   1,R,D
+  11,L
+   9,L,U,PH
+  59,L,D,G
+   1,L,J
+  14,L
+   1,L,J
+  10,L
+  40
+
+#lvl_a-05
+   4,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   9,L,J
+   3,L,J,G
+ 100,L,D,G
+  13,D,G
+   9,L,D,G
+  68,D,G
+  19,R,D,G
+   1,G
+   1,R,D,G
+  40,R,D
+   1,D
+   2,R,D
+   8,D
+   1,L,D
+   1,J
+  10,R,J
+  40,R,J,G
+  13,R,D,G
+  42,D,G
+   1,R
+   5,R,PH
+   8,L,J
+   9,L
+  25,L,G
+  18,L,D,G
+   1,L,J,G
+   9,L,G
+  10,L
+  40
+
+#lvl_a-06
+   2,L
+   1,L,J
+  14,L
+  19,L,J
+  18,L
+  19
+   9,L
+  10,L,J
+  20,L,D,G
+  15,L,G
+   5,G
+   1,U
+  25,L,D
+  36
+  12,J
+  14,J,G
+  10,R,J,G
+   1,R,U
+   7,R
+  14,R,U,X
+  56,R,U,G
+  20,L,U,G
+   1,D
+   6,L
+  12,L,U,PH
+  64,L,D,G
+   9,D,G
+   1,L,J,G
+  61,L,D,G
+  69,L,U,G
+  10,L,U
+  11,L,U,X
+  21,L,U,G
+   1,D
+   5
+  12,U,PH
+   1,G
+   3,R,J,G
+   6,R,G
+  25,R,D
+   2,R,PH
+   1,D
+   8,R
+  29,L,G
+   1,D
+  41,L,D
+   5,L,J
+  14,L
+   1,L,J
+  14,L
+   2,L,J
+  40
+
+#lvl_a-07
+   2,L,J
+  53,L
+  20,R,D
+   6,R,X
+  14,L,J
+  10,L
+  14,L,U,X
+  44,R,J
+   9,U,X
+  45,R,J
+   2
+  15,K
+  39,L,K,G
+  34,L,D,G
+   1,R,D,G
+  63,D,G
+   3,R,D,G
+StunPause
+   1,R,D,G
+   7,R,G
+   1,R,U
+   1,R
+   3,R,J
+   2,R
+SkipInput,3,1
+   8,R,Z
+EndStunPause
+# save dash and use in next room?
+   6,R,J
+  15,R,G
+   9,R,D,G
+  20,L,D,G
+  77,L,G
+   1,L,D
+  30,L
+   5,L,J
+   5,L
+   2,L,J
+  19,L,D
+  12,R,D
+  40
+
+#lvl_a-10
+  43,R,D
+   4,R,D,G
+  13,L,D,G
+  24,L,G
+   1,R,D
+  58,L
+  29,R,G
+   9,G
+   1,R,U
+   7,D,X
+  20,R,J
+   8,R
+   3
+  12,L
+  62,L,D,G
+   1,R,D,G
+   3,D,G
+  20,G
+   6,R,G
+  38,R,J,G
+  16,L,K,G
+   7,R,J,G
+   1,D
+  23,R
+   2,R,PH
+   1,D
+   8
+   5,R
+
+  78,R,D,G
+  92,R,G
+  16,R,D,G
+   1,R
+  12,R,D
+
+  19,D
+   5,L,X
+  37,L,D,G
+   2,R,D,G
+   9,L,G
+   1,D
+  41,L
+  13,R
+  59,R,G
+   1,D
+   3,D,PH
+  18
+  14,G
+   7,R,G
+   1,D
+   4,R
+   5,U,PH
+  30,R,G
+  20,L,G
+  15,R,J,G
+   1,R,D
+  18,R
+   1,R,J
+  14,R
+   1,R,J
+  10,R
+  40
+
+#lvl_a-11
+   4,R
+   1,R,J
+  14,R
+   1,R,J
+  17,R,D
+   7,D
+   7,L,Z
+  17,R,J
+  23,R,D
+  14,R,Z
+   1,R,J
+  21,R
+  40
+
+#lvl_a-12
+   5,R
+   3,R,J
+  14,R
+   1
+   3,R
+   1,R,D
+   4,L,D
+   1,R,D
+   3,L,D
+   9,L,X
+  41,R,J
+  14,R,U,X
+ 135,R,D
+
+ChapterTime: 1:11.859(4227)
