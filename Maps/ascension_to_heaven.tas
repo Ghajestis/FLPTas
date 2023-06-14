@@ -1,4 +1,4 @@
-RecordCount: 1541
+RecordCount: 1627
 
 console load FrogelineProject2021/1-Maps/AscensionToHeaven
    1
@@ -30,8 +30,8 @@ console load FrogelineProject2021/1-Maps/AscensionToHeaven
 
 #lvl_a-02
   60
-#spinner cycle
-   1
+#spinner cycle (a-05)
+   2
 #
    4,D,X
    1,R,J
@@ -271,25 +271,18 @@ console load FrogelineProject2021/1-Maps/AscensionToHeaven
    5,L
    9,L,K
   15,L,Z
-   1,L,D,K
-  15,K
+   1,L,D,J
+  14,J
   17,U,X
-   5,R,J
-   4,R
-  15,R,X
-  15,R
-  21,R,J
-  12,U,X
-  30,L,J
-  15,L,X
-  18,L
-   7,L,D
-  14,L,U,X
-   1,L,K,G
-  26,L,X
-   4,R,K
-  22,U,X
-   8,R
+  28,L,J
+  15,L,Z
+   1,L,J,G
+   4,K
+  15,U,X
+  28,L,C
+   4,R,J
+  25,U,X
+   7,R
   28,R,Z
    8,R,J
   14,R,K
@@ -720,4 +713,4 @@ console load FrogelineProject2021/1-Maps/AscensionToHeaven
    7,L,U,X
  136
 
-ChapterTime: 2:26.625(8625)
+ChapterTime: 2:25.197(8541)
