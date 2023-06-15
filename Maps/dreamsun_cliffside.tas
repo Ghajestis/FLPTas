@@ -1,10 +1,8 @@
-# The Frogeline Project
-# https://gamebanana.com/mods/425041
-
-RecordCount: 965
+RecordCount: 1137
 
 console load FrogelineProject2021/1-Maps/Luma
    1
+
 #Start
 #lvl_Intro
    2,R,J
@@ -206,42 +204,38 @@ console load FrogelineProject2021/1-Maps/Luma
   15,R,X
    4,R,J
    2,R,K
-   5,R
-   1,R,J
-   6,R
+  12,R
   13,R,U,X
    1,R,J,G
-   8,R
+   9,R
   40
 
 #lvl_7
   15,R,D,X
    2,R,D
-   1,R
-   1,R,D
-   1,R,J
-  15,R
-  15,R,Z
-   5,R
-  10,L,D
-   4,D
-   9,L,D
+  13,R,D,J
+  12,R
+  15,D,X
+   6,D
+   6,L,D
   14,L,D,X
   16,L,C
    4,R,X
   11,R,C
+# could be better
    8,R,J
-  12,R,K
-   2,K
+   6,R,K
+   8,K
   15,R,D,X
-  11,L,D,J
-  37,L,D
-   1,L,J
-  13,L,D
-  14,R,D
+   1,D,J
+   1,R,J
+   9,L,J
+  36,L
+   9,L,D
+   1,R,D
+   5,D
   18,R,Z
   31,R,X
-
 #   4,R,J
 #  21,R,K
 #  29,R,D,X
@@ -354,18 +348,22 @@ console load FrogelineProject2021/1-Maps/Luma
   34,R,J
   14,R,Z
    6,R,J
-   1,R,K,G
-   8,R
+   2,R,K,G
+   7,R
    5,R,U,Z
   40
 
 #lvl_10
-   5,R,U,Z
-   1,L,J,G
-  12,R
+   3,R,U,Z
+   1,L
+   1,J,G
+   5
+   7,R,D,X
    1,R,J
-   8,R
-  13,D,X
+   7,R
+   1,R,J
+   4,X
+   8,D,X
    5,R,D,C
   27,R,D,X
   17,R,C
@@ -437,4 +435,4 @@ console load FrogelineProject2021/1-Maps/Luma
   14,R,U,X
  135
 
-ChapterTime: 1:19.815(4695)
+ChapterTime: 1:19.356(4668)
