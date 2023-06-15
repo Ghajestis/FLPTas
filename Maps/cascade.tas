@@ -1,4 +1,4 @@
-RecordCount: 2051
+RecordCount: 2067
 
 console load FrogelineProject2021/1-Maps/ABuffZucchini2
    1
@@ -201,13 +201,15 @@ console load FrogelineProject2021/1-Maps/ABuffZucchini2
   11,R,J
    8,J
   22,U,X
-  11,L,Z
+  11,L,C
    4,L,J
    2,L,K
   17,D,X
-  12,R,Z
-  11,L,D
-  20,D
+   9,D
+   6,L,Z
+   1,K
+  12,R,D
+  12,D
    3,R,J
    3,J
    9
@@ -525,4 +527,4 @@ Endrepeat
   15,R,U,X
  135
 
-ChapterTime: 1:23.334(4902)
+ChapterTime: 1:23.283(4899)
