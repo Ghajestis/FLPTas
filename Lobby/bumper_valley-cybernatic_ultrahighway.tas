@@ -8,7 +8,7 @@ console load FrogelineProject2021/0-Lobbies/1-Maps 912 808
   36
    4,Z
    1,R,J
-  13,R
+  12,R
    1,R,J
   14,R,D,X
    1,R,J
@@ -16,8 +16,8 @@ console load FrogelineProject2021/0-Lobbies/1-Maps 912 808
    1,R,J
   14,R,D,X
    1,L,J
-   7,L
-  13
+   5,L
+  15
    6,L,Z
    1,R,J
    7,R
@@ -29,5 +29,5 @@ console load FrogelineProject2021/0-Lobbies/1-Maps 912 808
   15,R,U,X
    5,R
    1,N
-#0:02.057(121)
+#0:02.040(120)
 #End
