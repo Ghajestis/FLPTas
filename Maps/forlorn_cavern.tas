@@ -1,13 +1,11 @@
-# The Frogeline Project
-# https://gamebanana.com/mods/425041
-
-RecordCount: 585
+RecordCount: 591
 
 console load FrogelineProject2021/1-Maps/ForlornCavern
    1
 
 #Start
  190
+
 #lvl_ForlornCavern0
   14,L,D,X
    1,R,J
@@ -97,10 +95,10 @@ console load FrogelineProject2021/1-Maps/ForlornCavern
   12,K,G
    1,J
    4,L,J
-   6,J
+   7,J
   25,D
   19,R,D
-  11,R,G
+   8,R,G
    5,R,X
    2,R,J,G
    2,R,K,G
@@ -126,7 +124,7 @@ console load FrogelineProject2021/1-Maps/ForlornCavern
   41,R,U,G
   38,L,U,G
   17,R,U,G
-  75,L,U,G
+  74,L,U,G
    1,R
    6,L
    4,L,Z
@@ -143,4 +141,4 @@ console load FrogelineProject2021/1-Maps/ForlornCavern
   11,L
  148,L,U,X
 
-ChapterTime: 0:37.519(2207)
+ChapterTime: 0:37.468(2204)
