@@ -1,7 +1,4 @@
-# The Frogeline Project
-# https://gamebanana.com/mods/425041
-
-RecordCount: 1721
+RecordCount: 1848
 
 console load FrogelineProject2021/1-Maps/powerAV
    1
@@ -10,7 +7,7 @@ console load FrogelineProject2021/1-Maps/powerAV
  190
 
 #Spinner cycle
-   2
+   1
 
 #lvl_intro
    4,Z
@@ -82,8 +79,7 @@ console load FrogelineProject2021/1-Maps/powerAV
    5,R,J,G
    5,R
    1,R,J
-  13,R
-  14,R
+  27,R
   16
   12,L,Z
    1,R,J
@@ -124,25 +120,28 @@ console load FrogelineProject2021/1-Maps/powerAV
 #lvl_a-2
    3,R,D,X
    1,R,J
-   9,R,D,X
+   8,R,D,X
    1,R,J
    7,R
-   5,R,J
-  14,R,U,Z
-   1,J
-   9,L,K,G
+   1,R,J
+   5,R
+  15,R,U,Z
+   1,L,J,G
+   5,L,K,G
    7,L
-  27,G
-   2,D,G
-   3,G
-  25,R,J
-  11,R,K,G
-   4,R,K
-  25,L
-  13,L,Z
-   2,J,G
+  26,L,U,G
+   8,G
+   1,D,G
+  23,R,J
+   1,R,K,G
+  13,R,J,G
+  24,L
+  14,L,Z
+   3,J,G
    6,L,J
-  15,L
+   4,L
+   2,L,J
+   9,L
   15,L,D,X
    9,L
    3
@@ -202,24 +201,23 @@ console load FrogelineProject2021/1-Maps/powerAV
   24,R
   32,G
   30,L,J
-  28,U,G
-   4,U,G
+  32,U,G
    1,G
    4,R
    5,R,J
 stunpause
   25,R,K
-SkipInput,3,1
+skipinput,3,1
   13,L,U,Z
    1,R,J,G
 endstunpause
-   1,S
+   1,S,N
   10,J
    2,L,J
-   1,S
+   1,S,N
   10,J
    2,L,J
-  stunpause
+stunpause
    4,K
 endstunpause
    5,K
@@ -298,5 +296,4 @@ endstunpause
   14,L,U,X
  135,L,D
 
-ChapterTime: 0:45.407(2671)
-
+ChapterTime: 0:45.356(2668)
