@@ -1,4 +1,4 @@
-RecordCount: 1088
+RecordCount: 1449
 
 console load FrogelineProject2021/1-Maps/Flamecrafter113
    1
@@ -22,32 +22,32 @@ Set,BounceHelper.JellyfishDash,H
   16,R,J
   11,R,J,G
    1,D,J
-   9,R,J
-   5,R,J,G
-   3,J
-   6,L,J,G
-   5,R,J,G
+  10,L,J
+   7,R,J
+  10,J,G
+   1,R,J,G
    1,R,D
   29,R
    1,R,J
-  12,R
+  11,R
   40
 
 #lvl_a-02
-   2,R,PH
-   1,L
+   3,R
    7,R,J
    5,R
    1,R,J
-  52,R
-  19,R,U,X
-  11,G
-   1,D
-   6
-  11,U,PH
-   1,G
-  11,R
-   1,J
+  28,R
+  11,L,U,X
+   9,R,J
+   9,R
+  11,R,G
+   1,R,D
+  10,R
+   2,R,PH
+   1,U
+   6,L,G
+   8,R,J
   40
 
 #lvl_a-03
@@ -73,20 +73,19 @@ Set,BounceHelper.JellyfishDash,H
   14,R,X
   28,L,J
   14,U,X
-  33,L,G
-  50,R,G
+  18,L,G
    1,D
    5
-  15,D,PH
-  21,L,G
-   1,R,D
-  11,L
-   9,L,U,PH
-  59,L,D,G
+   3,U,PH
+  16,L,G
+   8,R,J,G
+   6,L,J,G
+   1,L,D
+  32,L
    1,L,J
   14,L
    1,L,J
-  10,L
+  11,L
   40
 
 #lvl_a-05
@@ -316,4 +315,4 @@ EndStunPause
   14,R,U,X
  135,R,D
 
-ChapterTime: 1:11.859(4227)
+ChapterTime: 1:09.717(4101)
