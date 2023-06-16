@@ -1,4 +1,4 @@
-RecordCount: 27
+RecordCount: 60
 
 console load FrogelineProject2021/0-Lobbies/1-Maps 2280 96
    1
@@ -9,11 +9,12 @@ console load FrogelineProject2021/0-Lobbies/1-Maps 2280 96
   11,L,J
   15,U,X
    1,L
-   8,L,J,G
+   5,R,J
+   1,K
    7,L
    4,Z
-  11,L,J
-  13,L
-   1,N
-#0:01.224(72)
+   9,L,J
+   7,L
+   1,L,N
+#0:01.054(62)
 #End
