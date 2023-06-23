@@ -6,13 +6,18 @@ console load FrogelineProject2021/0-Lobbies/1-Maps 336 -1368
 #Start
   36
   10,L,Z
-  12,R,J
-  15,D,X
-   7,L,D
-   8,L,J
-  14,R,D,X
    1,R,J
-  28,R,D,X
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   3,R,K
+  15,D,X
+   8,R,D
+   4,Z
+   1,R,J
+  32,R,D
+   1,R
    1,N
-#0:01.428(84)
+#0:01.207(71)
 #End
