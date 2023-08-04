@@ -1,4 +1,4 @@
-RecordCount: 3561
+RecordCount: 3869
 
 console load FrogelineProject2021/1-Maps/bryse0n
    1
@@ -149,46 +149,43 @@ console load FrogelineProject2021/1-Maps/bryse0n
   14,R
    1,R,J
    1,R,K
-   1,R,J
-   1,R,K
+   2,R,J
    3,R
   15,R,D,X
-   5,R,U
+   6,R,U
   30,D,X
-  33,R,D,C
-   4,R,D
-  15,R,X
+   1,R
+  40,R,C
+   5,R,X
    1,R,J
    1,R,K
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   2,R,K
+   4,R,J
    5,R,D,X
   40
 
 #lvl_4_bouncehouse
    3,R,D,X
-   3,R,J,G
+   4,R,J,G
    5,R,K
-   5,R
+   6,R
    7,R,J
-  10,R
+   9,R
    1,R,J
    1,R,K
+   1,R,J
+   1,L,K
+  17,R,U,X
+  14,L,U,C
    1,R
-   1,R,J
-   1,R,K
-  15,R,U,X
-  15,L,U,C
-   6,R,U,X
-  10,R,J
-   9,L,U,X
-  23,R,J
-  11,R
-   6,R,D
+  16,R,U,Z
+   8,L,U,X
+  22,R,J
+  14,R
+   4,R,D
    1,R,J
    1,R,K
    5,R,J
@@ -208,6 +205,13 @@ console load FrogelineProject2021/1-Maps/bryse0n
   16,R,D
    1,R,J
    1,R
+
+
+
+
+
+
+
   21,R,D,X
    1,R,J
    1,R,K
@@ -242,28 +246,26 @@ console load FrogelineProject2021/1-Maps/bryse0n
    3,R,J
   37,R,D,X
   47,R,U,C
-  24,R,U,X
-  25,L,D,C
-  10,L
-  18,L,D,X
-   1,L,J
-  14,L
-   6,L,J
-  21,L,U,X
-  26,L,D,C
-  60,R,D,X
-  33,R,J
-  65,R,U,Z
+  19,R,U,X
+  29,L,D,C
+   9,L
+  16,L,D,X
+  21,L,J
+  16,L,U,X
+  23,L,D,C
+  48,R,D,X
+  29,R,J
+  50,R,U,Z
   15,R,D,X
-  53,R
-  17,R,D
+  44,R
+  27,R,D
   40
 
-#lvl_6_zigzagger
-   3,R,D
-   6,R,D,J
+#lvl_6_theshaker
+   2,R,D
+   5,R,J
   15,R,U,X
-  27,R,D
+  26,R,D
   20,R,D,C
   23,R,U,X
   15,L,U,C
@@ -419,4 +421,4 @@ EndStunPause
    1,R
    8,L,X
  135
-ChapterTime: 1:17.231(4543)
+ChapterTime: 1:16.415(4495)
