@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 1223
+RecordCount: 1387
 
 console, load, FrogelineProject2021/1-Maps/Reversal 101
    1
@@ -26,23 +26,23 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
   13,J
   13,K
   13,J
-   8,K
+   1,R,K
+   3,L,K
+   4,R,K
    7,R
-   6,R,Z
+   4,R,Z
    1,R,J
-   4,R
+   5,R
   40
 
 #lvl_a02
-   3,R
-   1,R,J
-  12,R,Z
-  10,R,J
-  14,U,Z
-  14,J
+   2,R
+  23,R,J
+  15,U,X
+   3,R,J
   18,R,X
-  14,U,C
-   5,J
+  13,U,Z
+  11,J
   14,R,D,X
   12,R,U,C
   13,L,D,X
@@ -152,27 +152,24 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
 
 #lvl_a06
    1,R,J
-  14,R,D,X
+   5,R,D,X
    1,R,J
    7,R
-   3,R,J
-   2,L,J
+  16,R,J
   15,D,X
-  27,R,J,G
+   5,R
+  26,R,J
    1,R,K
-   4,L,K
-   7,R,K
-   2,R,J
-   1,K,G
+   1,J,G
   40
 
 #lvl_a07
-   1,R,J,G
-   4,R,K,G
+   1,R
+   4,R,J,G
    6,R
   15,R,U,X
-   7,R
-   2,L
+   8,R
+   1,L
   10,L,Z
    3,L,J
    2,L
@@ -261,25 +258,22 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
   13,L,J
   15,L,D,X
   31,L,U
-   5,R,U,X
+   4,L,Z
    1,L,J
-   7,L
+  11,L
    1,L,J
-   1,L
-   7,L,U,X
-   1,L,J,G
-  10,L
-  15,L,D,X
-  24,L
-   5
+   7,L,K,G
+  15,L,D,Z
+  28,L,U
+   4,L,J
   11,L,X
   11,L,C
   15,R,Z
   11,R,D,X
-   3,R,J
-   4,R,K,G
+   2,R,J
+   5,R,K,G
    4,R,J,G
-  10,R,D,X
+   9,R,D,X
   40
 
 #lvl_a09
@@ -330,4 +324,4 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
   12,R
   41,R,U,X
    
-ChapterTime: 0:42.840(2520)
+ChapterTime: 0:42.585(2505)
