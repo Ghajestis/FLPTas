@@ -128,41 +128,46 @@ console, load, FrogelineProject2021/1-Maps/Stormy Climb
    7,L,J
    4,J
    2,R
-   1,J
+   3,J
    1,R,J
    3,L,J
-  12,L,K,G
-   1,J
-  18,L,J
-   7,K
-   3,R,K
-   2,J
-   7,R,J
-   9,K
-   1,J
-   1,K
-  11,L,K
-   1,J
-  11,R,J
-   1,K
-   6,L,K
-   1,J
-   8,R,J
+   8,L,K,G
+   1,J,G
+   1,L,J
+   1,R,J
+   7,L,J
    1,K,G
-  11,L,K
-  11,J,G
-   1,R,J
-  11,K,G
-   1,L,K
-  11,J,G
-   1,R,J
-  10,K,G
+   7,L,K
    1,R,K
-   1,L,K
-  14,R,J,G
-   5,K,G
-   4,L,K
+   1,J
    7,R,J
+   2,K
+   7,R,K
+   9,J
+   1,K
+   1,J
+  11,L,J
+   1,K
+  11,R,K
+   1,J
+   6,L,J
+   1,K
+   8,R,K
+   1,J,G
+  11,L,J
+  11,K,G
+   1,R,K
+  11,J,G
+   1,L,J
+  11,K,G
+   1,R,K
+  10,J,G
+   1,R,J
+   1,L,J
+  14,R,K,G
+   5,J,G
+   4,L,J
+   7,R,K
   13,R,X
    1,R,J,G
    8,R,K,G
@@ -182,4 +187,4 @@ console, load, FrogelineProject2021/1-Maps/Stormy Climb
 #End
  135
 
-ChapterTime: 0:19.516(1148)
+ChapterTime: 0:19.448(1144)
