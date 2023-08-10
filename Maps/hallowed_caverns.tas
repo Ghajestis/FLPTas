@@ -9,34 +9,31 @@ console load FrogelineProject2021/1-Maps/ABuffZucchini3
   10,R,D,X
    5,R,J
   15,R,D,X
+   7,R,J
+   4,R
+   9,R,D,X
+   1,R,J,G
+  11,R
    1,R,J
-   5,R
-  14,R,Z
-   1,R,J
-  12,R,D,X
   40
 
 #lvl_ABuffZucchini_HallowedCaverns_01
-   2,R,D,X
    1,R,J
-   1,R
-   6,R,D,X
+   7,R,D,X
    1,R,G
-   7,R
+   5,R
    8,R,J
-   4,R
+   2,R,K,G
+   9,R
    2,R,J
-   9,R,D,G
-   1,J
-   5,R,J
-   3,J
-   1,R,J
+   7,J
+   1,D,J,G
   14,R,U,X
    3,R,J,G
    7,R
    4,R,Z
    1,R,J
-   4,R
+   2,R
   40
 
 #lvl_ABuffZucchini_HallowedCaverns_01b
@@ -264,30 +261,28 @@ ENDREPEAT
    9,R
    9,G
    9,L,D
-  38,D
-   3,L
-   7,L,Z
+  35,D
+   9,L,Z
    1,R,J
    7,R
    1,R,J
-   6,R,D,X
-   1,R,J,G
-   3,J
+   1,R
+   5,R,D,X
+   1,L,J,G
+   1,R,J
+   2,R
   40
 
 #lvl_ABuffZucchini_HallowedCaverns_07
-   2,J
-   1,R,J
-   1,R,J,G
-   5,R
-   1,R,J
    4,R
-   1,G
+   1,R,G
+   1,R,J
+   8,R
+   1,R,G
   17,R,J,G
    1,D,J,G
-   9,J
-   1
-   5,J
+   8,J
+   7
   14,R,U,X,G
    3,R
    1,R,J,G
@@ -295,8 +290,10 @@ ENDREPEAT
   10,R,D
    1,D,G
   15,D
-  12,R,D
-   4,R
+  11,R,D
+   2,R
+   1,R,D
+   2,R
   14,R,Z
    1,R,J
    6,R
@@ -340,21 +337,4 @@ ENDREPEAT
   32,R,K,G
 
 #End
-ChapterTime: 0:37.332(2196)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ChapterTime: 0:37.145(2185)
