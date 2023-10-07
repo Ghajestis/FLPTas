@@ -1,7 +1,7 @@
 # The Frogeline Project
 # https://gamebanana.com/mods/425041
 
-RecordCount: 1387
+RecordCount: 1393
 
 console, load, FrogelineProject2021/1-Maps/Reversal 101
    1
@@ -169,7 +169,7 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
    6,R
   15,R,U,X
    8,R
-   1,L
+   1,R
   10,L,Z
    3,L,J
    2,L
@@ -186,7 +186,8 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
    2,L
   15,U,Z
    1,R,J,G
-  11,L
+   2,R
+   9,L
   10,L,X
    6,L,J
   15,D,Z
@@ -282,7 +283,8 @@ console, load, FrogelineProject2021/1-Maps/Reversal 101
    1,R
    2,R,J
   14,R,D
-  58,L,U
+   1,R,U
+  57,L,U
    2,R,U
   15,R,U,X
   36,R,U
