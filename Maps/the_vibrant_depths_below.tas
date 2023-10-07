@@ -1,7 +1,4 @@
-# The Frogeline Project
-# https://gamebanana.com/mods/425041
-
-RecordCount: 2123
+RecordCount: 2266
 
 console load FrogelineProject2021/1-Maps/CoreOfTheLillypad
    1
@@ -65,8 +62,7 @@ EndRepeat
    1,R,K
    1,R
    1,R,K,G
-   3
-   1
+   4
    1,J
    1,R,J
    1,R,K,G
@@ -103,64 +99,43 @@ EndRepeat
    1,L,J
    5,R,J
    9,R
-  18,U,G
-   1
+   7,U,G
+   1,G
+   5,U,G
+   3,G
+   1,U,G
+   4,Z
+   1,R,J
+   1,R,K,G
    1,R,J,G
    1,R,K,G
-   4,R,J,G
-  11,R,K
-  10,R
+  11,R,J,G
+   3,R,D
+   1,R,J
+   7,R,D
 StunPause
-   3,R,D
+   1,R,D
    1,R,J
-   1,J
-   1,R,J
-   1,L,K,G
-   1,R,K
-   1,R,J
-   4,R
-ENdStunPause
    2,R
-  15,D,X
-  22,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   7,R,K
-   4,R,G
-   1,G
-   3,R,D
-  11,L,D,X
-   1,R,J
-   3,R,K
-   1,R,J,G
+EndStunPause
+#manual stun to hold jump
+   1,S
+  12,R,J
+   2,R,K
    1,R
-   1,R,J
-   7,R,K
+   4,R
+StunPause
+   2,R,D
+EndStunPause
+   4,R,D
   40
 
 #lvl_a-03
-   2,R,J
-   7,R,D,X
-   1,R,J,G
-   4,J
-   2
-   1,R
-   1,R,K,G
-   6,R
-   1,R,J
-   3,R,K
-   5,R
-   3,R,J
-   4,R
-   4,R,J
-   4,R,K,G
-  13,U,X
-  18,L,J
+  12,R,D
+   5,R,J
+   2,R
+  14,U,Z
+  17,L,J
   12,L,K
    4,L
   28,G
@@ -438,4 +413,4 @@ ENdStunPause
    1,R,K,G
   21,R
 
-ChapterTime: 0:47.685(2805)
+ChapterTime: 0:45.390(2670)
